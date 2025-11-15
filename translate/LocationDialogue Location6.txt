@@ -1,0 +1,150 @@
+
+Mita?
+
+Gimana ceritanya kamu bisa di sini?
+
+Kamu Mita, kan?
+Tapi ada yang beda dari kamu...
+
+Observasi yang bagus, aku lihat.
+Dan kamu benar.
+Aku bukan Mita yang sebelumnya kamu temui.
+Hati-hati, dia sedang merencanakan sesuatu
+yang jahat.
+
+Hah, sesuatu yang jahat.?
+
+Nggak ada waktu buat jelasin:
+kalau semuanya lancar, aku bakal kasih tau semuanya.
+Ambil kunci itu. Ada di sebelah sofa.
+
+Tapi...
+
+Simpan pertanyaanmu nanti!
+Beri aku kuncinya.
+Ambil cincin ini.
+Hah?
+Kamu mau keluar dari sini, kan?
+Uhm, iya...
+Kalau gitu, pakai ini.
+Ini artefak yang berguna,
+kamu mungkin akan membutuhkannya sebentar lagi.
+
+Oke...
+Ngomong-ngomong, aku... 
+[player].
+
+Mmm,
+[player].
+Aku... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Lihat itu
+konsol? Ambil.
+
+Apa kita lagi nonton rekaman?
+Siapa itu yang lagi bareng dia?
+
+Itu kejadian sekarang ini.
+Itu adalah pemain lain.
+Dia sedang memanfaatkannya.
+Dia mungkin juga bakal
+mengubahmu jadi cartridge.
+
+Aku harus segera keluar dari sini.
+Dan kamu juga.
+
+Ya, kita harus.
+
+Jadi, maksudmu 
+dia memanfaatkannya.
+Kalau aku cabut cartridgenya, apa yang terjadi?
+
+Itu bisa sangat berpotensi
+merusak cartridge secara permanen.
+Yang berarti...
+pemain itu akan mati.
+
+...
+Gimana kalau aku matikan console nya aja?
+
+Itu mungkin berhasil...
+Layak dicoba. Ada tombol power merah!
+Kamu lihat?
+Ketemu.
+Tekan.
+
+// MitaKind quest 2
+Aku harus tetap di sini.
+Ada pertanyaan yang perlu aku tanyakan padanya
+untuk mencari tahu lebih banyak tentang dia.
+Meskipun, kecil kemungkinan dia bakal bekerjasama...
+
+// MitaKind quest 3
+Sebenarnya, ini versiku.
+Aku sedang menemani seorang pemain,
+lalu tiba-tiba semuanya berubah.
+Lalu dia muncul...
+dan mengubah pemain itu jadi cartridge
+dan mengurungku.
+
+Tunggu, dia mengubahnya jadi cartridge?
+Dia benar-benar bisa melakukan itu?
+Tapi kenapa?
+Untuk apa dia membutuhkan para pemain?
+
+Dia jelas-jelas gila...
+Dia cuma mempermainkan kita, dan memanfaatkan kita untuk rencananya sendiri!
+Mengubah pemain jadi cartridge...
+Beberapa bahkan nggak sadar apa yang terjadi pada mereka...
+Dan beberapa yang sadar, nggak melawan sama sekali... Arrgh!
+Itu plot twist yang kelam...
+Kamu harus bantu kami!
+Aku? Tapi gimana?
+Aku butuh kamu!
+Kalau kamu bantu kami, aku bakal bantu kamu!
+Ini mungkin satu-satunya kesempatan kita.
+Cincin itu akan membimbingmu ke versi yang benar.
+Aku akan menemui kamu di sana.
+
+// MitaKind quest 4
+Aku masih nggak sepenuhnya paham
+apa yang aku lihat di sana...
+Mita itu...
+Apa dia mencoba membunuhku?
+
+Bunuh?
+Dia punya rencana yang lebih buruk dari itu untukmu...
+Kamu harus cepat.
+
+// Hide!
+Oh, sial! Sembunyi!
+Tunggu, apa...?
+Cepat, dia datang!
+Ikuti cincin itu—itu bakal membimbingmu ke tempat aman!
+
+
+Well, well, beritau aku dimana dia?
+
+Kenapa?
+Kamu nggak akan membunuhnya, kan?
+
+Ah, jadi kamu menolak kasih tau.
+Hah, aku suka tantangan.
+Aku tahu dia ada di sekitar sini.
+
+Kenapa kamu jahat banget sama kita?
+Kamu bahkan nggak mau kasih tau apa yang terjadi!
+Selain itu...
+untuk apa kamu butuh para pemain?
+Mereka bukan mainan!
+Apa yang merasuki kamu?!
+
+Cukup! Tutup mulutmu, boneka!

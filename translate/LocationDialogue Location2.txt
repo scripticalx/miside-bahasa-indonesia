@@ -1,0 +1,9 @@
+// Player start
+Aku dimana?
+Tempat ini terlihat familiar.
+Tunggu... Aku ada di dalam Game?
+// Player try open the door
+Terkunci?
+// Player in dark
+Gelap banget disini.
+Aku gak bisa lihat apa-apa.

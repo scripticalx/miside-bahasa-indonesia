@@ -1,0 +1,246 @@
+
+Tunggu, tunggu!
+Jangan berisik...
+Maju lebih jauh itu bahaya.
+Ngomong-ngomong...
+gimana caranya kamu sampai sini?
+
+Um...
+Cincinnya bisa buka pintu yang benar.
+Jujur aja, aku nggak ngerti cara kerjanya.
+
+Cincin?
+
+Ada apa dengan tempat ini?
+Gelap banget.
+
+Nanti aku ceritain.
+Sekarang, pergi ke arah pintu keluar.
+Ketemu aku di mesin arcade.
+
+
+
+Cepatlah, jangan lelet!
+
+
+// After mini-game
+Jadi, ngerti nggak inti dari game-nya?
+
+Kalau aku ini dari daging dan tulang, sedangkan kamu dari model kerangka?
+
+Wih!
+Kedengerannya seram kalau kamu ngomong gitu.
+Tapi, ya, itu intinya.
+
+Oke, tapi kenapa aku harus ngerti soal itu?
+
+Kamu pikir aku bilang maju lebih jauh 
+itu bahaya cuma buat lucu-lucuan?
+Kamu bakal ketemu... model-model yang ditinggalkan...
+Yang dianggap "cacat" dan dibuang.
+Mereka agresif, bahkan bisa nyoba bunuh kamu.
+
+Terus, aku harus gimana?
+Aku cuma bakal
+jalan ke pintu yang kebuka.
+
+Wah!
+Jangan pernah balik badan dari mereka.
+Dan jangan lepasin pandanganmu dari mereka!
+Mereka jadi malu kalau kamu tatap,
+saking malunya mereka bakal diam.
+Ingat itu!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Mereka baru dibuat.
+Mereka butuh waktu
+untuk menyadari keberadaan mereka sendiri.
+Lalu aku tuntun masing-masing
+ke rumah mereka.
+
+// Quest 2 (Why is it so dark downstairs?)
+Kami, para Mita, 'diciptakan' dalam gelap,
+jadi kami perlu tetap di situ untuk sementara waktu.
+Bayangin
+rasanya keluar dari gelap langsung ke cahaya terang...
+
+// Quest 3 (What are you doing here?)
+Masih nggak ngerti juga?
+Aku bantu Mita-Mita baru buat settle in!
+Siapa lagi yang bakal bantu mereka kalau bukan aku?
+Kamu?
+
+// Quest 4 (Why do we need this conveyor?)
+Kenapa ada conveyor belt ini?
+Cukup nggak ruang buat semua orang?
+
+Tunggu, jangan bilang kamu nggak
+ngerti gimana dunia ini bekerja...
+Dan kalau dunia ini itu nggak ada habisnya?
+
+Nggak ada habisnya?
+Uhm...
+Maksudnya gimana?
+Kalau 1.9 itu versi terbaru,
+berarti cuma ada 19 dunia.
+
+Astaga, kamu bener-bener nggak
+ngerti cara kerja dunia ini.
+Dengar, aku bakal pake papan tulis ini
+buat jelasin semuanya.
+Mau denger soal ini?
+
+// Quest 5 (What is your version?)
+Tunggu,
+bukannya aku ketemu kamu di versi terbaru?
+Atau mungkin cuma imajinasi aku aja.
+
+Ya, itu mungkin aja.
+Aku dari versi 1.5.
+Kamu pernah ke sana?
+
+Pernah.
+Itu tempat aku tiba
+waktu aku dilempar ke dunia ini!
+
+Wih!
+Tapi gimana...?
+Tapi rumah index mana yang kamu masukin?
+Ada aku yang suka ngeluh terus,
+aku yang suka bercanda,
+aku yang pelupa dan suka bully orang lain...
+Daftarnya panjang banget...
+Coba ceritain apa yang kamu inget.
+
+Gelap.
+Ada tulisan
+kayak...
+"Main sama aku."
+
+Ah,
+sayang banget...
+Itu aku
+yang suka bully dan pelupa.
+
+// Mita wants to tell you [No]
+Makasih, tapi nggak usah.
+Aku bakal baik-baik aja tanpa tahu lebih.
+
+Oke, terserah kamu.
+
+// Mita wants to tell you [Yes].
+Oke, lanjut.
+Aku cuma berharap ini nggak kayak pelajaran di sekolah
+di mana aku selalu ketiduran karena bosan.
+
+Kamu bisa pergi kapan aja,
+atau tetap tinggal dan dengar
+kalau kamu tertarik.
+Seorang pemain download MiSide
+dan mainin sesuka mereka.
+Di situ, dia bikin rumah baru
+dan Mita baru.
+Ini representasi 2D-nya.
+Ini adalah
+sgaris-garis versi,
+dan rumah-rumah diletakkan di garis-garis ini.
+Misal kamu download versi 1.14,
+berarti itu kehidupan baru,
+Mita baru, dan rumah baru.
+
+Astaga...
+
+Kamu bisa tanya soal detail
+di gambar ini,
+dan aku bakal coba jelasin.
+
+// He asks about the only circle
+Kenapa ada satu lingkaran aja?
+
+Versi itu cuma dirilis sekali,
+nggak bakal diulang lagi.
+Itu satu-satunya versi yang bener-bener unik.
+Plus, versi-versi ini spesial
+dan nggak punya jalur ke versi lain.
+Sleepy Mita tinggal di versi ini, 1.1.
+
+Sleepy Mita?
+Karena dia nggak bisa tidur
+karena semua orang lewat versinya?
+
+Bukan, bukan gitu.
+Kamu bisa lewat dan bikin suara,
+tapi nggak mungkin ngebangunin dia.
+
+// He asks about the shaded circle
+Kenapa lingkaran ini gelap banget?
+
+Uhm, itu ada di sini
+karena Pretty Mita.
+Dia yang gambar itu.
+Kami berdebat soal
+siapa yang bisa sampai ke versi 1.11 paling cepat.
+
+Terus, siapa yang menang?
+
+AKU, tentu saja!
+Lihat, kita ada di sini
+di versi 1.15,
+house index 809.
+Kita perlu sampai ke versi 1.11,
+house index 805.
+Jadi, jalurnya mulai kayak gini.
+Kami coba cari jalur yang lebih pendek,
+jadi Pretty Mita nyaranin jalur ini.
+Dan aku gambar jalur yang paling simpel, di sini.
+Gampang, kan?
+Lihat aja di sini.
+Dari sini, kamu bisa langsung ke versi yang benar.
+Meskipun rumah ini kayaknya menghalangi jalan,
+itu nggak masalah...
+Oh ya, cincinmu juga bekerja dengan prinsip yang sama.
+Tujuanmu ke mana?
+
+Ke Core.
+
+Ke Core?
+Hmm...
+Kalau kamu mau jalur terpendek,
+kamu harus lewat versi 1.11 juga.
+Kamu pasti bakal ketemu Sleepy Mita di sana.
+Aku pikir Mita yang ngirimin kamu,
+lewat jalur yang sama.
+Atau mungkin dia belum sadar kalau kamu di jalur yang beda.
+Atau mungkin dia jenius
+dan udah nemuin jalur yang lebih pendek lagi!
+
+Kayaknya aku mulai ngerti.
+
+// He asks about the inscription
+Apa maksudnya ini?
+
+Itu buat Cool Mita.
+Dia bakal di sini beberapa jam lagi.
+Dia bakal pindahin kotak-kotak itu
+dan naruh sofa di sini.
+Pantatku sakit!
+
+Umm...
+Mungkin aku bisa bantu?
+
+Nggak, itu tugasnya Cool Mita.
+Dia kuat.
+
+// He asks about the drawings
+Itu cuma gambar,
+atau
+ada artinya?
+
+Ya,
+itu cuma coretan aja.

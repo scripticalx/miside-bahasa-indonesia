@@ -1,0 +1,837 @@
+
+Kamu berhasil!
+
+Tempat apa ini?
+
+Tunjukkan cincinnya. 
+Iya... 
+Itu dia! 
+Saatnya untuk menjelaskan beberapa hal, setuju kan?
+// Jika pemain tidak mendekati Mitya yang baik dan memutuskan untuk bermain balapan - Mita Kind
+Aku sudah menunggumu di sini dari tadi
+dan kamu malah main game balapan?!
+Bagaimanapun, sini deh ke sini...
+// Jika pemain berbicara dengan Mita terlebih dahulu dan menyelesaikan permainan sampai akhir - Mita Kind
+Selamat, kamu menang!
+Aku juga sudah main!
+Aku bahkan coba untuk mengumpulkan semua koin dan dapatkan tempat pertama
+untuk dapatkan pencapaian!
+Dan wah, itu pasti sulit banget!
+Aku butuh waktu lama buat terbiasa dengan kontrolnya.
+
+// Quest 1 (Haruskah aku percayakan padamu?)
+Ya, setidaknya aku masih waras...
+tidak seperti beberapa orang...
+Selain itu,
+aku orang yang paling baik yang akan kamu temui di sini, sayang.
+Kamu nggak mau menyerah gitu aja kan?
+Dia pembunuh berdarah dingin. Kita harus hentikan dia.
+
+// Quest 2 (Bagaimana aku bisa sampai di sini?)
+Cincin itu, yang membawamu ke sini.
+Itu penemuan hebat.
+Hanya pemain yang punya itu
+yang bisa menemukan jalan menuju versi yang benar.
+
+// Quest 3 (Tempat apa ini?)
+Lorong-lorong ini
+menghubungkan berbagai versi.
+Iya, di sini cukup kosong.
+Dan aduh! Aku dengar tentang Mita
+yang nggak bisa mencapai versinya...
+Rumahnya
+tiba-tiba nggak ada lagi...
+Dan dia katanya sedang berkeliaran
+di lorong-lorong ini.
+Kasihan banget...
+
+// Quest 4 (Bagaimana kamu bisa sampai di sini?)
+Kamu tahu,
+sudah lama kita nggak bertemu.
+Dan berkat kamu,
+aku keluar dari kurungan sial itu,
+dan lolos dari orang gila itu.
+Dan FYI,
+aku bisa dengan mudah berpindah antar versi,
+tidak seperti kamu, sayang.
+
+// Quest 5 (Apa yang kamu lakukan dengan cincin itu?)
+Aku ubah rutenya
+ke rute yang kita butuhkan.
+Aku buat yang paling pendek,
+penuh dengan semua yang kita perlukan...
+Begini caranya: kamu buka pintu,
+dan cincin itu membuka batas
+antara versi.
+
+// Quest 6 (Apakah lorong-lorong ini berbahaya?)
+Aku sudah lihat segala macam hal aneh
+sejak aku datang
+ke permainan ini...
+Segalanya terlihat tenang di sini,
+tapi lorong-lorongnya terasa...
+tidak aman.
+
+Kamu benar, dan tempat ini semakin
+tidak terduga setiap harinya.
+Tapi semangat!
+Kita sudah memikirkan semuanya,
+dan kita akan ambil jalan yang paling pendek
+dan paling sering dilalui!
+
+Aku hanya berharap semuanya berjalan lancar.
+Tapi apa yang tinggal di lorong-lorong ini?
+
+Yah,
+glitch, bug, anomali.
+Yang hidup.
+Bahkan yang berbahaya dan bisa menyerangmu begitu saja...
+
+Err...
+Dan mungkin Mita yang lebih hostile.
+Lebih gila, tidak cocok?
+
+Aku tahu setidaknya satu...
+Mita jelek.
+Dan cuma sekedar info, bukan aku yang namain dia!
+Cuma...
+dia adalah versi Mita yang sangat awal.
+Masalah utama dengan dia
+adalah dia menyebabkan glitch terburuk...
+Dan aku khawatir kita akan bertemu dia.
+Dia paling dekat dengan versi nol, setelah semua...
+
+// Quest 7 (Maukah kamu membantuku keluar?)
+Aku nggak punya rencana yang jelas...
+Tapi bagaimanapun,
+kamu sudah sampai di sini, kan?
+Selain itu,
+apa lagi yang bisa kamu lakukan
+selain mengandalkan aku, Mita Kind!
+Benar kan...
+
+// Quest 8 (Kamu tadi ngomongin tentang rencana...)
+Memang, kita perlu menuju ke Core.
+Intuisi aku bilang itu tempat kita akan menemukan
+solusi untuk semua masalah kita.
+
+Tapi kenapa nggak kamu aja yang pergi ke sana? Kenapa perlu pemain?
+
+Entah kenapa, kita Mita nggak bisa
+masuk ke Core Room.
+Aku cuma pernah lihat dari luar.
+Tapi kalian para pemain berbeda.
+Aku yakin kamu
+bisa masuk.
+Mau bahas rencana?
+Oke.
+Bagus.
+Oke...
+Sudah saatnya aku kenalin kamu
+sama Mita Keren!
+Karena dia pakai topi keren,
+aku panggil dia
+Cappie.
+Aku udah bahas rencana dengan dia,
+rencana untuk menghentikan Mita Gila.
+Ini dia, [player]!
+
+
+Salam!
+Kamu pemain baru aku?
+Panggil aku apa?
+Namaku...
+
+Tunggu sebentar!
+Kamu...
+...nggak ingat aku?
+
+Hah?
+Siapa kamu?!
+
+Tidak mungkin!
+[player]...
+Aku rasa "DIA" di sini,
+Mita Gila...
+Dengerin!
+Coba ingat, demi kita semua!
+
+Ingat apa?
+Coba pikir. Kenapa kita mirip?
+
+Uhm, ini sepertinya nggak membantu...
+Dengerin, [player],
+semuanya nggak berjalan
+sesuai rencana...!
+Kita seharusnya pakai portal
+untuk bikin perjalanan kita jadi lebih gampang dan cepat.
+Tapi kita nggak bisa buat itu bekerja tanpa bantuan Cappie.
+Dan kita kekurangan beberapa bagian...
+Dia memang cerewet, tapi pikirannya cepat...
+Oke, jadi apa yang kita lakukan?
+Aku akan cari solusi.
+Apa yang Mita Gila lakukan ke dia?
+
+Aku... aku rasa...
+dia membunuhnya.
+Membunuhnya?!
+
+Dan setelah mati...
+Mita Keren akan di-reset.
+Kembali ke pengaturan pabrik
+dan lupa semua hal penting.
+Yang berarti...
+rencana kita nggak akan berhasil.
+
+Itu mengerikan...
+Lebih baik daripada menghilang selamanya, sih...
+Tapi siapa yang bisa tahu pasti?
+Dan gimana dengan kita para pemain?
+Apa kalau kita dibunuh, ingatan kita juga di-reset?
+
+Ingatanmu bisa di-reset, pasti.
+Setidaknya setelah kamu diubah jadi cartridge.
+Tapi bahkan aku nggak tahu
+apa yang terjadi dengan yang dibunuh.
+
+Selalu cartridge... Jadi, gimana aku tahu
+kalau aku sudah jadi cartridge atau belum?
+
+Sini, aku cek
+sini tanganmu...
+// Cek MitaKind
+Syukurlah,
+kamu belum jadi cartridge.
+Kamu pemain yang hidup dan bernapas.
+
+Itu kabar baik...
+
+Tentu, tapi apa yang kita lakukan sekarang...
+Biar aku pikirkan...
+Kita harus ubah rencana kita.
+Hmm...
+Tunggu sebentar...
+Iya, aku pikir aku punya ide!
+Kasih aku cincin itu!
+
+Iya.
+Aku perlu ubah rutenya.
+
+Ada rute yang kamu pikirkan?
+
+Dengerin, sayang,
+kamu harus melewati versi lain
+untuk sampai ke Core.
+Ayo, semangat, dengerin aku?
+
+Dan aku harus pergi sendirian?
+Tapi aku nggak tahu jalan, atau bagaimana cara sampai di sana?
+
+Aku akan bantu sebisaku,
+sebagai mana situasinya memungkinkan.
+Aku kasih arah, dan,
+aku akan berusaha sebaik mungkin.
+Dan nanti kita ngobrol...
+Pertama, main sama Cappie dulu.
+Aku butuh sekitar 10 menit...
+
+// MitaKind siap, kalau pemain dekat
+Oke.
+Semua beres!
+// MitaKind siap
+[player],
+Sini.
+// Cincin MitaKind
+Ambil ini.
+Sayangnya itu benar, [player].
+Kamu harus pergi sendirian dulu,
+aku harus cari tahu apa yang terjadi di sini.
+Rencanaku sempurna...
+Tapi kita malah lebih buruk dari sebelumnya.
+Aku harus cari tahu apa yang salah,
+dan di mana bagian-bagiannya...
+Aku coba cari.
+Mungkin kita masih bisa dapetin portal bersama-sama.
+Tapi waktu sangat berharga.
+Mita Gila tahu soal tempat ini,
+dan tinggal di sini berarti mempertaruhkan segalanya.
+Semoga berhasil, [player]! Sampai jumpa!
+
+Oke...
+Aku cuma berharap aku cukup lama untuk bertemu kamu lagi...
+
+
+
+
+
+
+
+
+
+
+// Chibi players  
+Kenapa?  
+Siapa aku?  
+Aku ingin pulang!  
+Bagaimana?  
+Kenapa?  
+
+Apa yang...?
+
+// LimpingPerson  
+Kamu...  
+manusia sungguhan?
+
+Hai!  
+Kamu baru di sini?  
+Baru?  
+Kamu dari dunia nyata, kan?  
+
+Aku...  
+Uhm, kamu baik-baik saja?  
+
+Hanya sedikit pincang, jangan khawatirkan itu.  
+Aku sudah di sini sekitar setahun,  
+dan aku baik-baik saja.  
+Benar... Tempat apa ini?  
+Ini semacam ruang di antara versi.  
+Apa kamu tahu cara keluar dari sini?  
+
+Tidak bisa dibilang aku tahu.  
+Lagipula, aku tidak ingin pergi.  
+Aku tidak butuh pergi.  
+Err, kenapa tidak?  
+Cukup ngobrolnya. Aku sedang terburu-buru.  
+Mita tercintaku sedang menunggu aku.  
+Aku harus menemukannya...  
+Selamat tinggal.  
+Tunggu...!  
+Pergilah!
+
+
+Aku mendengar semuanya!  
+Aku tidak tahu apa yang sedang terjadi,  
+tapi ini semua sangat menarik!  
+Aku percaya  
+kamu sudah tahu siapa aku, kan?  
+Aku Mita!  
+Tapi jelas bukan yang tadi itu!  
+Kamu tahu maksudku, kan?  
+Karena aku punya  
+INI  
+topi keren!  
+Dan BOOOM!  
+Sarung tangan luar biasa!  
+Tapi bukan itu saja!  
+Gitar listrik imut yang keren juga!  
+Aku sangat menyukainya!  
+Mau aku mainkan lagu?
+
+// MitaCap Guitar Yes  
+Hah!  
+Sini, sayangku...  
+Baiklah!  
+Yah, aku sebenarnya berharap kamu main lebih baik dari itu.  
+Oh, baiklah!  
+// MitaCap Guitar No  
+Eh, baiklah.
+
+
+Hei,  
+kamu cukup energik!
+
+AKU IYA!  
+Aku jelas IYA!  
+Pokoknya...  
+Ayo  
+bersenang-senang!
+
+// GAME HUMMER  
+
+Tombol yang besar sekali.  
+Aku benar-benar ingin menekannya.  
+Boleh?
+
+Tahan diri kamu, kita akan sampai ke situ.  
+Kalau ada waktu, itu pun.  
+Sekarang, duduklah!  
+// Player sit  
+Benar.  
+Jadi, sekarang apa?  
+Boleh aku tekan tombolnya?
+
+Ha-ha!  
+Aku suka permainan ini!  
+Tapi kita kekurangan sesuatu.  
+Ada di inventarisku!  
+Tunggu sebentar...  
+Errr!  
+Yah...  
+Kamu tahu...  
+Bahwa ini adalah permainan dewasa, kan?
+
+Apa tadi itu?
+
+Lambat sekali pahamnya, ya?  
+Ini untuk memancing berang-berang keluar dari persembunyian...
+
+Serius?  
+Aku belum pernah lihat berang-berang di sekitar sini...
+
+Hah? Berang-berang?  
+Gah, sudah cukup,  
+ayo main, ya?!
+
+Tidak.
+
+Ayo dong!  
+Kamu tahu permainan apa yang sedang kita mainkan?
+
+
+// How play hammer game  
+Lihat angka-angkanya?  
+Itu adalah timer!  
+Ketika waktunya habis,  
+itu akan memberitahumu  
+kapan menekan tombol.  
+Kalau kamu terlalu lambat,  
+atau menekannya tidak sesuai giliran,  
+aku akan memukul kepala kamu dengan palu!
+
+Tunggu, kamu akan memukulku?
+
+Pokoknya,  
+kamu akan mengerti begitu kita mulai main!
+
+// Kick player 1  
+Aduh!  
+Apa kamu tidak bisa menahan diri?  
+Apa itu sakit?  
+Tidak.  
+Kalau begitu, lanjutkan!
+
+// Kick player 2  
+Oke,  
+aku mulai terbiasa dengan ini.  
+Lihat aku!  
+Kamu akan menyukainya!
+
+// Kick player 3  
+Aku rasa ini bukan untukku.  
+Ha-ha!  
+Aku luar biasa!  
+Aku epik!  
+Dan aku imut!
+
+// Kick MitaCap 1  
+Oh, kamu!  
+Oke,  
+aku akan mengalahkan kamu!
+
+// Kick MitaCap 2  
+Gah, kalah lagi!  
+Apa itu sakit?  
+Tentu saja tidak! Ini cuma mainan boneka!  
+Kamu menang.
+
+// Kick MitaCap 3  
+Permainan ini lumayan juga, heh.  
+Seru, kan?  
+Aku juga suka!  
+Dan sekarang kamu adalah musuhku!
+
+// GameHammer End  
+Sudah selesai?  
+Ya, sudah selesai!  
+Ayo pergi.
+
+
+
+
+
+
+
+// GAME DANCE
+Apakah itu lantai dansa?  
+Kecil banget...
+
+
+Whoo-hoo!  
+Mau dansa nggak?  
+Untuk pemula,  
+pilih track dulu!  
+
+Pakai yang ini aja.  
+
+Okeydokey!  
+Aku duluan, ya!  
+Lihat nih caranya!
+
+// MitaCap StopDance 1
+Phew!  
+Jadi,  
+kamu pikir bisa ngalahin rekorku?  
+Ayo, giliranmu!
+
+// MitaCap StopDance 2
+Ah!  
+Gimana tuh?  
+Giliranmu!
+
+// MitaCap StopDance 3
+Tsk, tsk, tsk, tsk!  
+Oke,  
+sekarang giliran kamu di lantai dansa!
+
+// MitaCap = Lose 1
+Ha-ha!  
+Siapa bosnya sekarang?
+
+// MitaCap = Lose 2
+Pew!  
+Tiga tombol,  
+dan tangan gesitku!
+
+// MitaCap = Lose 3
+Mungkin duduk 
+di atas tombol  
+bakal kasih skor lebih tinggi. Ha-ha!
+
+// MitaCap = Win 1
+Luar biasa!  
+Jujur aja, aku nggak nyangka  
+kamu bisa ngelakuin itu!
+
+// MitaCap = Win 2
+Wow!  
+Gerakanmu keren banget!  
+Bagus! Mantap!
+
+// MitaCap = Win 3
+Bam!  
+Kamu bisa rasain ritmenya!  
+Penari alami!
+
+// MitaCap = Draw 1
+Kamu!  
+Aku!  
+Kita tim yang hebat!
+
+// MitaCap = Draw 2
+Benang takdir menghubungkan kita!  
+Duet sempurna!
+
+// MitaCap = Draw 3
+Cuma  
+satu kesalahan!  
+Dan kamu kalah...
+
+// MitaCap Next? 1
+Jadi,  
+gimana kalau satu ronde lagi?
+
+// MitaCap Next? 2
+Bagus, yang terakhir ya.  
+Gimana kalau dansa lagi?
+
+// MitaCap Endgame
+Ayo, ayo!  
+Kita udah cukup banyak berdansa!
+
+// Just talk
+// Photo
+Ini foto-foto yang keren banget.  
+Kamu suka banget bercanda, ya?
+
+Ya, aku emang begitu!  
+Aku tunjukin ke mereka gimana caranya di tempat ini! Boom!
+
+Um... tunjukin ke siapa, sih, tepatnya?
+
+Beneran nanya itu?  
+Siapa peduli! Aku yakin mereka semua buta!
+
+// CutBoard
+Whoa,  
+Ada banyak banget.  
+Buat apa?
+
+Menurutmu buat apa?  
+Buat bikin hal-hal keren!  
+Kayak...  
+Potong wortel,  
+dan kayak  
+potong wortel,  
+dan kayak...
+
+Oke, aku paham.
+
+Oke, jujur aja,  
+papan talennya bunyi ka-cha-cha! Apa pun maksudnya...  
+Dan itu aja ceritanya!
+
+// Books
+Baca ulang semuanya, ya?  
+Karena kamu bosen?
+
+Ugh, aku nggak suka buku!  
+Aku suka ngelakuin sesuatu!
+
+Itu salah satu cara buat lihat sesuatu.  
+Tapi tanpa teori...
+
+Boom - gerakan, keterampilan motorik, sentuhan, tahu nggak?  
+Buku cuma kertas, aku suka di momen itu!  
+Kalau aja kamu mau tinggal di sini sama aku,  
+kita bisa lakuin banyak banget!  
+Aku yakin kita bisa...
+
+// Fruits
+Apakah buah itu asli?  
+Mereka kelihatan luar biasa.  
+Apakah mereka pernah busuk?
+
+Apel, maksudmu?  
+Mereka nggak sempet busuk,  
+karena aku makan semuanya!  
+Terus mereka muncul lagi...
+
+// Photo and cat
+Kucingnya lucu banget.
+
+Dia enak nggak?
+
+Tunggu, apa?  
+Kamu nggak makan kucing.
+
+Gah, dasar bodoh!  
+Aku tahu itu!  
+Maksudku...  
+aku belum pernah lihat satu pun!  
+Yang asli maksudnya.  
+Cuma lihat di foto internet.  
+Mereka lucu, kan?
+
+Ya, mereka emang lucu.  
+Aku suka kucing.
+
+// Mita Kind with ring
+Apa itu?
+
+Itu antarmuka cincin,  
+dan aku lagi ubah rutenya.
+
+Uhm, tapi kamu cuma muter-muter?
+
+Ya, mungkin kamu pikir begitu.  
+Buatku, aku lagi transfer data.
+
+Bakal lama nggak?
+
+Diam! Jangan ganggu aku,  
+biar cepet selesai.
+
+Oke,  
+jadi kalau aku terus gangguin,  
+bakal makin lama selesai?
+
+Oh, Cappie,  
+aku berharap kita bisa balikin memorimu...
+
+Semua akan baik-baik saja sebentar lagi...
+
+Luar biasa!
+
+Kita nggak punya waktu buat buang-buang.  
+Kita harus sampai ke Inti.
+
+Boleh aku ikut?
+
+Yah, aku nggak tahu...
+
+Jadi, nggak boleh?
+
+Sayangnya, nggak.
+
+// PlayerChibi
+Aku telat... super telat!  
+Dan aku makan kebanyakan...  
+Gah, kerja lagi?  
+Besok tanggal berapa?  
+Mana komputernya?  
+Mereka bakal usir aku kalau aku nggak selesai tepat waktu!  
+Apa aku udah nyimpen semuanya?  
+Ada yang sayang aku nggak?  
+Kita mau ke mana?  
+Hey!  
+Kesabaranku habis...  
+Aku harus kerja lebih keras...  
+Aku nggak bisa nyelesain apa pun!  
+Mana ponselku?  
+Uhm...  
+apa yang terjadi kemarin?  
+Hari ini kayak nggak ada ujungnya!  
+Hiya?  
+Ada kasur kosong?  
+Apa yang harus aku lakuin?  
+Aku nggak bakal bisa selesai tepat waktu...  
+Aku nggak ngerti masalahnya apa...  
+Ada tembok nggak?  
+Istirahat 20 menit cukup lah...  
+Tidur itu buat pecundang!  
+Waktunya cuci muka dan kerja!  
+Aku lapar!  
+Ini buruk, bener-bener buruk.
+
+// Player is gone 1
+Errm...
+
+Ahahaha.
+
+Ya...  
+Dia dapetin itu,  
+terus pergi.
+
+Aneh banget!  
+Dan lucu :D
+
+Oh, ayolah.  
+[player], apa yang kamu lakuin?
+
+// Player is gone 2
+Ada apa?
+
+Kamu pergi lagi?
+
+Baiklah!  
+Baiklah, aku maafin kamu.
+
+[player], baliklah ke kami!
+
+// Don't pay attention
+Dia bahkan nggak lihat aku!  
+Bosan...
+
+// quest Cap 1
+Apa rencanamu?
+
+Rencanaku?
+Rencana apa?
+
+Oh, benar.
+Kamu kehilangan ingatanmu.
+
+Kamu benar-benar luar biasa, guys!
+Aku benar-benar harus mengingat sesuatu!
+Apa kamu sedang menggodaku?
+Tapi melihat ekspresi wajahmu...
+Aku nggak bisa memastikan!
+
+// quest Cap 2
+Bagaimana rasanya melihat
+replika dirimu yang persis?
+Kamu tahu, yang pakai cincin itu.
+
+Ya, aku tadinya mau memarahi dia.
+Kamu tahu, untuk mengejutkan dia.
+Astaga! Lihat, itu kloninganku!
+Tapi aku jauh lebih seru.
+Jadi aku lebih keren, heh :)
+Lihat tuh cemberutnya...
+
+Aku di sini.
+Aku bisa mendengar semua yang kamu katakan.
+
+// quest Cap 3
+Apa kamu nggak bosan pakai topi itu?
+Dan apa sarung tangan itu nggak bikin gerah?
+Kenapa nggak dilepas aja?
+
+Emm...
+Kamu memang suka bercanda!
+Atau, haruskah aku melepas sesuatu yang lain? :)
+
+Aku serius nih.
+Oh, oke.
+
+// Carrot
+Alamak.
+Itu banyak banget wortelnya!
+Bug yang lucu banget!
+Ha-ha-ha!
+
+// DoorExit
+Tunggu, tunggu dulu!
+Kamu sebaiknya nggak melihat apa yang ada di dalam sana...
+Biarkan itu jadi rahasia :).
+
+Apa yang ada di dalam sana?
+
+Rahasia adalah rahasia,
+dan rahasia itu harus dijaga.
+
+Uh-huh.
+Kenapa kamu jadi ribet sendiri?
+
+// Tetris
+Whoa!
+Itu apa?
+Konsol!?
+Boleh aku coba mainin?
+
+Uh-oh.
+
+Apa yang kamu lakukan di game ini?
+
+Kamu cuma kumpulin koin,
+dan hindari kodok.
+
+Gah, terdengar super membosankan.
+Seriusan, kamu nyebut ini game?
+
+// Tetris again
+Dari mana kamu dapat itu?
+Bukannya aku sudah ngembaliin ke kamu.
+Aneh, nggak sih?
+
+// TV
+Ugh!
+Kerja bagus,
+kamu nemu bug!
+Seharusnya itu mulai video
+tapi malah bikin TV-nya
+nyala dan mati!
+Cukup keren, nggak sih?
+
+// Player sit
+Aku rasa aku bakal tunggu aja.
+
+Apa yang kamu lakukan?
+Bangun dong!
+Ayo bersenang-senang!
+
+// Goodbye 1
+Keluar lewat pintu itu
+menuju auditorium.
+
+Dadah!
+
+// Goodbye 2
+Sudah waktunya kamu pergi, [player]!
+Pergi, jangan takut!
+
+Aku nggak akan
+pernah meninggalkanmu sendirian!
+Jadi tetaplah di sini bersamaku!
+
+Cappie!
+Jangan bercanda, OK?
+
+Bah!
+
+// Goodbye 3
+Kenapa kamu diam aja?
+Waktunya hampir habis!
+
+Hai!
+Emm, maksudku dadah!  

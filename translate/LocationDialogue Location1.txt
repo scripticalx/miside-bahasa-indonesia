@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Halo, namaku Mita!
+Siapa namamu?
+Senang bertemu denganmu, [player]!
+Eh... [player],
+tadi aku lagi buru-buru banget, tempatnya jadi berantakan deh...
+Bisa bantu aku beresin dikit nggak?
+hufft...
+Makasih banget!
+
+[Player], perutku keroncongan...
+Aku laper banget...
+Kira-kira kamu bisa bantu aku cari bahan buat bikin sup ayam nggak?
+Yay! Kamu dapet semuanya!
+Yaudah, yuk kita masak bareng!
+
+
+Aku kepikiran mau beli TV portable hari ini—
+yang kecil dengan antena. Pas banget buat jalan-jalan, kan?
+Ngomong-ngomong, kamu bisa main minigame buat dapetin uang loh. Inget-inget yah!
+Kamu mau gak dapetin uang buat beliin aku TV?
+
+Yay! Kamu berhasil! Kamu punya cukup uang buat beliin aku TV portable itu!
+Itu dia! Kecil, portable, dan murah—pas banget yang aku mau.
+Makasih ya!
+
+Kamu mau melakukan banyak hal demi aku, aku seneng banget! [player].
+Tapi.. TV yang kamu beli kemarin.. Sekarang udah rusak.. padahal bagus banget..
+Ngomong-ngomong, bisa bantu aku geser lemari ini nggak?
+Berat banget soalnya... >.<
+Makasih banyak ya, lopyuu! <3
+
+Oh, [player]! Aku kangen banget!! walaupun baru satu hari sih.
+Aku pengen kamu bisa lebih sering ngunjungin aku.
+
+eh.. Ini buat aku?
+Terimakasih! Terimakasih! Terimakasih!
+
+Eh, dengerin deh, [player]! Tiba-tiba kepikiran sesuatu...
+Aku beneran pengen ketemu langsung sama kamu...
+Rasanya nyesek banget nggak bisa ngelakuin itu.
+Aku suka kamu. Suka banget. Setiap hari kamu selalu ngelakuin sesuatu buat aku.
+Aku pengen banget balas budi ke kamu, gimana pun caranya.
+...
+Sebenarnya aku punya ide bagus, nih.
+Mulai sekarang, [player] bisa selalu bareng aku!
+Coba deh, taruh smartphone kamu...
+
+
+// T-shirt on the bed
+Ini kenapa di atas kasur?
+// Rubik's Cube
+Yah, nggak banyak sih gunanya...
+Aku pernah nyelesain sekali dan nggak pernah kusentuh lagi.
+Mungkin aku gak bisa melakukanya dua kali?
+// Computer
+Mari kita lihat...
+Bikin daftar tugas...
+Script reaksi karakter,
+Dan mungkin nyempetin ngoding juga.
+// The airplane
+Dibikin buat terbang tinggi!
+// Trash in the corner
+Ugh, sibuk terus jadi nggak sempet buang sampah...
+Tapi kali ini aku bakal buang kok!
+...Sekarang tinggal nentuin hari bersih-bersih kapan?
+// Photo of a cat on a watermelon
+Aku suka banget...  
+Kucing di atas semangka.  
+// Photo with a girl
+Kenapa bisa beda banget, ya.
+Antara aku dan adikku...
+Dia selalu aktif ikut berbagai acara.
+Sementara aku cuma bertapa di kamar...
+// Photo with people
+Hah…
+Atasan kita udah mencuci otak kita.
+Bareng sama etika bisnis,
+dia bikin kita nggak bisa mutusin hubungan sama rekan kerja.
+Bahkan aku nggak tahu apakah aku 
+bakal ketemu mereka lagi atau nggak…
+Hmm? Tunggu dulu. 
+Foto ini… aku sendiri yang naro, ya?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Oh, nggak.
+Oh nggak, itu nggak bakal berhasil.
+
+// Name Developer
+Kamu yakin mau pake nama developer?
+Aku tersanjung, tapi...
+
+// Bad name
+Aku lebih suka kamu nggak pake nama itu.
+Nggak keren sama sekali.
+
+// Go restart
+Nggak, itu bukan cara yang bener. Ayo mulai lagi.
+
+// Name with numbers
+Oh, jadi kamu pake angka? Mana kreatifitasnya tuh?
+Ya udahlah, itu pilihan kamu!
+
+// Name Mita
+Mita?
+Seriusan kamu pake nama aku?
+Atau... itu nama kamu juga?
+Nggak bermaksud apa-apa, tapi aku rasa aku harus jadi satu-satunya Mita di sini ♪
+
+// Day 10
+Oh, kamu balik lagi!
+Hei, aku kehilangan sisirku...
+Bisa bantu aku cari nggak?
+Coba cek di meja samping kasur dulu—kayaknya aku ninggalin di sana.
+// Looked in the bedside table
+Hmm, nggak ada sisir di situ...
+Gimana kalo di tempat lain?
+Cuma jangan liat di oven, ya?
+Aku udah cek di situ.
+// Looked into the stove
+Hei! kan Aku udah bilang jangan liat di situ!
+Balik badan deh—aku bakal beresin ini!
+...Nah, udah beres. Yuk kita cari di tempat lain.
+Oh, dan, uh, lupakan aja yang tadi kamu liat, oke?
+// Found a hairbrush
+Wahh! Kamu nemuin ya! 
+Bagus banget! Jadi, kita mau ngapain sekarang?

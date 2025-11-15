@@ -1,0 +1,165 @@
+Permainan Baru
+Lanjut
+Menu utama
+Keluar
+Pengaturan
+pencapaian
+Kredit
+Kembali
+Muat
+Bahasa
+Memuat...
+Grafik
+Suara
+Keyboard & mouse
+Kontrol
+Resolusi
+Windowed mode
+Efek Grafik
+Efek Warna
+Bayangan Halus
+Blur
+Glare
+Anti-aliasing
+Bayangan
+World display quality
+Programming
+Animasi
+Efek Suara
+Musik
+Partikel
+Tekstur
+3D model (98%)
+Script
+Reset
+Forward
+Back
+Left
+Right
+Interaksi
+Sensivitas Mouse
+Keluar dari game?
+Iya
+Tidak
+Kembali ke Menu utama
+Smooth turns
+Pengaturan Game
+Style bayangan
+Pakaian
+Interface
+3D models (2%)
+Game video
+Jeda
+Menu
+Selamat! Kamu berhasil menyelesaikan Gamenya!
+Waktumu:
+Subtitles
+Kecerahan
+Vertical sync
+Tersimpan
+Karakter
+Karakter - Mitas
+Karakter - Kartrid
+Kartrid
+Mitas
+Mulai dari awal
+Apakah Anda yakin ingin menghapus seluruh proses Anda dan memulai dari awal?
+Compiling shaders, perkiraan waktu selesai: 2 jam.
+2-Jam Baru selesai?! Gak masuk akal! Kami akan melewatinya untukmu!
+Membuat bayangan realistis—diperkirakan memakan waktu 10 jam.
+Tapi boong!, Kita ngga usah pake yang begitu-begituan di sini.
+Umm...
+Oh, kita siap!
+Gerakan kamera
+Petunjuk
+Suara pemain
+Discord
+Profil karakter ditambahkan
+POV
+Suara
+Mati
+Tangan menjulur ke pintu
+Animasi
+Aktifkan suara pemain
+Mita
+Mita berambut pendek
+Mita yang baik hati
+Mita pakai topi
+Mita kecil
+Mita ngantuk
+Mita 2D
+Mila
+Mita seram
+Mita inti
+Mita hantu
+Mita chibi
+Mita dummy
+
+
+
+// Name load location
+Aku di dalam game?
+Akhirnya bersama
+Hal-hal jadi aneh
+Ruang bawah tanah
+Melampaui Dunia
+The Loop
+Mini Mita
+Boneka dan teka-teki terlupakan
+Dia cuma pengen tidur
+Novel
+Baca buku, hancurkan glitch
+Lari dan sembunyi!
+Versi lama
+Terus Terang
+Reboot
+Cappie
+Mita Hantu
+Dunia nyata?
+Pergi dari Core!
+Player 1
+Player 2
+Player 3
+Player 4
+Player 5
+Player 6
+Player 7
+Player 8
+Player 9
+Player 10
+
+Mode Damai
+Mode ini masih dalam tahap pengembangan! Mode ini begitu luas hingga para developer belum sempat menyelesaikannya. Tapi tenang saja—mereka sudah janji bakal merilisnya dalam update besar yang akan datang. Dan lihat kamu, udah selangkah lebih maju dengan membuka akses duluan! Sekarang tinggal tunggu aja...
+Jadi, apa itu Mode Damai? Ini kesempatan kamu untuk terhubung dengan Mita dengan cara yang benar-benar berbeda! Dia bakal super senang bisa menghabiskan lebih banyak waktu sama kamu, dari pagi sampai malam, di dunia yang penuh keseruan dan kejutan. Bayangin obrolan satu lawan satu yang tulus, makan kue bareng, main game, dan banyak momen lucu yang kalian lewati bersama.
+
+
+Sembunyikan Gore
+Terima Kasih Khusus:
+Ikon Pencapaian: Iceсloud
+Fotografi: Nineko Hori
+Penerjemah
+Mengubah teks dalam game ke bahasa lain.
+Mitra Penerbitan
+Pemasaran game
+Penguji
+Bermain dan menemukan berbagai macam bug.
+Terjemahan bahasa ini dibuat oleh para penggemar dari komunitas penggemar dan ditambahkan ke dalam game atas permintaan mereka.
+Peringatan! Game ini berisi Jumpscare, Suara yang tiba-tiba, dan Layar berkedip. Pemain yang memiliki gangguan Epilepsi, kondisi jantung, atau gangguan lainnya yang sensitif terhadap hal-hal tersebut, sebaiknya tidak bermain.
+Mode Damai Sekarang Tersedia!
+
+Mode Foto
+Mode Foto: Pembatasan penerbangan kamera dihapus. Anda dapat menjelajahi area yang biasanya tidak dapat diakses.
+Keluar Mode Foto
+Sembunyikan Interface
+Tahan untuk menggeser kamera
+Gerakan cepat
+Gerakan halus
+Kecepatan
+Filter
+Kontrol waktu dalam game
+Kecerahan
+Kontras
+Vignette
+Screenshot diambil!
+Buka folder screenshot
+POV

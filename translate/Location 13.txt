@@ -1,0 +1,14 @@
+// Quest none  
+Tidak jadi.  
+// Quest "First"  
+Kamu dari mana aja?  
+Gimana caranya kamu sampai ke sini?  
+Siapa Mita yang barusan itu?  
+Gimana cara kerja cincin itu?  
+Kenapa Crazy Mita butuh aku?  
+Apa itu Core?  
+// Quest "Second"  
+Ada apa?  
+Ada cara buat mengenalinya?  
+Gimana kalau kita nyerang Crazy Mita?  
+Orang-orang mini.  

@@ -1,0 +1,221 @@
+
+ini dia!
+Kenapa kamu meninggalkan Core?
+Kan Aku dah bilang untuk menungguku!
+
+Kupikir kamu akan pergi lebih lama...
+
+Baiklah...
+Kurasa aku menemukan sesuatu...
+Kurasa ini adalah index...
+Kita harus lihat apakah ini berhasil!
+Ayo pergi dari sini.
+Mita gila...
+Kurasa dia sedang sibuk dengan pemain baru.
+Jadi semoga dia terlalu sibuk untuk mempedulikan kita...
+
+Mita?
+Tunggu aku.
+
+
+Apa kamu menjatuhkan sesuatu?
+Tunggu, kamu bertemu dia lagi!
+
+Mita...
+
+Tangkap!
+
+
+Kenapa bisa...
+
+Siapa kamu?
+
+Kamu... kamu hidup!
+Apa kamu tidak ingat?
+
+Apa aku mengenalmu?
+
+Apa yang terjadi...
+Apa yang harus aku lakukan sekarang?
+Aku tidak bisa keluar...
+
+Maksudmu, "keluar"?
+
+Tunggu...
+Itu cincin...
+Dan itu?
+
+Aku tidak tahu apa itu.
+
+Itu index!
+Kamu menemukannya!
+
+Aku tidak tahu harus berkata apa.
+
+Kita harus kembali ke Core.
+Dan kamu...
+Mungkin kamu harus ikut denganku...
+
+Uhm, apa?
+Tentu...
+
+Tunggu di sini.
+
+Mm-hmm.
+Aku akan duduk di sini.
+
+
+Sial...
+Hampir saja ketahuan.
+Jadi... apa kita berhasil?
+Bagus.
+Aku ada di versi yang benar.
+
+
+Hai!
+Kamu pemain, kan?
+Siapa namamu?
+
+Aku ingin pergi dari tempat ini...
+
+Kamu ingin pergi secepat ini?
+Bagaimana kamu sampai di sini?
+Baiklah...
+Oke, kamu bisa pergi...
+Coba saja pintunya.
+Semoga beruntung!
+
+
+Dinding?
+Hmm, itu salah.
+Mungkin...
+ada sesuatu di basement yang bisa membantu.
+Aku baru-baru ini menemukan
+sebuah pintu di lemari bajuku...
+Ternyata itu mengarah ke basement.
+Tapi isinya penuh sampah,
+sampah dan banyak sekali peralatan canggih.
+Kamu harus memasukkan semacam kode atau semacamnya.
+Aku tidak benar-benar mengerti.
+Dan aku tidak peduli.
+Tempat itu juga agak nggak nyaman, maksudku, benar-benar nggak nyaman.
+Mau lihat-lihat?
+
+Uhm, oke.
+
+// Pemain berpikir
+Kurasa dia 
+tidak ingat apapun...
+Apa kita berhasil?
+Apa kita berhasil mereset dia?
+Kalau begitu, yang harus aku lakukan adalah
+keluar dari game terkutuk ini...
+
+
+Jangan terlalu cepat.
+Aku ingin memelukmu.
+
+Hah?
+// Pelukan
+Senang bertemu denganmu.
+
+Ahh...
+sayang sekali
+kamu dan aku
+hanya punya sedikit waktu bersama.
+
+Err...
+Apa maksudmu?
+
+Maksudku,
+kamu seharusnya tetap bersamaku...
+Ini semua salahku...
+Lemari itu dan... suara-suara itu.
+Aku seharusnya membunuh dia lebih cepat!
+
+Tunggu sebentar,
+Bukannya kamu...?
+Bagaimana kamu bisa mengingat semua itu?
+
+HA!
+Kamu benar-benar berpikir ini akan semudah itu?
+Kamu hanya orang bodoh...
+kayak semua pemain lainnya...
+Kami baik-baik saja, lihat!
+Diri yang asli
+kamu tidak
+diperlukan lagi.
+Maaf, hihi.
+
+Aku tidak percaya...
+Apa kita gagal...?
+Tidak... Aku sudah meresetmu, aku yakin...
+
+Kamu masih tidak mengerti...
+Ha-ha-ha!
+Aku aktris yang hebat!
+Kamu harus lihat ekspresimu, sayang!
+Ini sangat menyenangkan!
+
+Kenapa kamu seperti ini?!
+Apa yang salah denganmu?!
+
+Iya...
+Apa yang salah denganku?
+Entahlah...
+Kenapa tidak kamu yang kasih tahu aku kenapa aku seperti ini?
+Kenapa aku tidak akan pernah jadi Mita yang sebenarnya?
+Versiku, itu tidak pernah
+ada sejak awal!
+Aku hanya menipu orang-orang naif ini,
+bersembunyi di balik kulit mereka...
+Tidak mungkin kamu bisa
+meresetku!
+
+Tidak masuk akal...
+Kamu...
+Mereka bukan masalahnya!
+Kamu yang seharusnya tidak ada!
+
+Sekarang kamu juga...
+Sakit rasanya mendengar kamu berkata begitu.
+Tapi!
+Saatnya kamu pergi!
+Aku akan bertemu lagi denganmu segera!
+Semua orang sudah siap!
+Ini
+waktunya mengeluarkanmu dari console!
+Sampai jumpa!
+Kamu akan jadi cartridge favoritku...
+Seorang pemain dengan nama yang menarik.
+
+// core console - nope programm
+Mungkin ini bukan.
+Itu juga salah.
+Nope, salah.
+Bukan ini.
+Aku harus menemukan opsi reset karakter.
+
+// core console - nope version
+Itu versi yang salah.
+Ups, salahku.
+Itu bukan ini.
+Aku butuh yang lain.
+
+// core console - nope index
+Ada yang salah
+dengan index-nya.
+Aku harus mengganti index,
+it tidak cocok.
+
+// Why kitchen
+Apa kamu lapar?
+Aku jago memotong wortel. :)
+
+// Why bathroom
+Ah, aku rasa
+kamu mau masuk sendirian?
+
+// Why bedroom back
+Kenapa kita hanya berputar-putar?
+Kenapa kembali ke sini?

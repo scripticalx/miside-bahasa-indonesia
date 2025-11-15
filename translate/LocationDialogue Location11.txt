@@ -1,0 +1,188 @@
+
+Hiya!  
+Oops!  
+Sorry,  
+hampir saja aku membunuhmu di sana.  
+Uhm...  
+Kulkasnya, maksudku... kulkasnya hampir membunuhmu.  
+Aku sama sekali tidak ada hubungannya,  
+sumpah!  
+Benar-benar!  
+
+Tentu, aku percaya padamu!  
+
+Tapi serius,  
+tempat ini berbahaya...  
+terutama untukmu.  
+
+// After a while 1  
+Kamu bukan pengecut, ya!  
+Melihatmu  
+saat melewati  
+tempat-tempat ini itu menyenangkan...  
+Lari, pumpkin, lari!  
+Aku akan menyusul!  
+Mantap, bung!  
+Woah, ini menyenangkan!  
+
+// After a while 2  
+Aku melihatmu menuju kereta.  
+Itu jalur terpanjang  
+di antara versi...  
+Aku penasaran bagaimana kamu akan menghadapi  
+mereka yang tinggal di sana  
+dalam kabut itu.  
+
+// Panties  
+Apa yang kau lakukan?  
+Tolong...  
+Jangan lihat!  
+Bodoh!  
+Dasar bodoh...  
+
+
+Uhm, oke...  
+
+
+Semoga berhasil!  
+
+
+Siapa di sana?  
+Aku bisa merasakanmu...  
+Dengarkan aku,  
+kamu seorang pemain, 
+bukan?  
+Bantu aku menemukan...  
+temukan sebuah...  
+Biarkan aku berpikir...  
+pikiranku kosong...  
+Apa yang sedang terjadi di sini?  
+// Cry 1  
+Aku ingin melupakan segalanya dulu...  
+Aku memecahkan setiap cermin,  
+merusak foto-foto...  
+tapi sekarang...  
+yang aku rasakan hanya penyesalan.  
+Betapa bodohnya aku...  
+Semua orang membuat kesalahan, tentu saja...  
+Tapi apa yang kamu lakukan  
+ketika konsekuensinya bencana?  
+Aku berharap aku bisa memutar balik waktu...  
+// Cry 2  
+Mereka bilang waktu menyembuhkan semua luka...  
+Tapi apa itu waktu?  
+Aku tidak percaya pada apapun lagi...  
+Tapi jika waktu bisa menyembuhkan,  
+atau setidaknya membawaku pergi,  
+jauh dari dunia ini...  
+Maka, aku mohon, tolong  
+percepat waktu.  
+Agar bisa membunuhku  
+sekali dan untuk selamanya.  
+// Cry 3  
+Dia dicintai...  
+Apakah aku juga pernah mencintai sekali?  
+Tapi cintaku berbeda;  
+cintanya itu cerah,  
+menjijikkan...  
+membakar...  
+tak kenal ampun...  
+iri...  
+marah...  
+gila...  
+// Cry 4  
+Mereka memanggilku emosional...  
+Kamu terlalu khawatir, Mita...  
+Kamu akan melewati ini, Mita...  
+Kamu tidak sendirian, Mita...  
+Mereka bilang. Tapi apa yang tersisa?  
+Kesedihan,  
+keputusasaan...  
+dan ketakutan.  
+// Cry 5  
+Tidak berguna...  
+Aku tidak bisa mengingat...  
+Tidak ada sama sekali...  
+Hanya gema yang tak ada habisnya...  
+Aku tidak bisa menerima kenyataan  
+bahwa aku terperangkap di sini...  
+Aku selalu ada di sini,  
+tapi kenapa?  
+Aku tidak bisa mengingat...  
+Apakah ini akan pernah berakhir?  
+Aku tidak tahu...  
+
+// Mita get picture  
+Ini adalah...  
+sebuah gambar...  
+Aku ingat sekarang,  
+terima kasih...  
+Tapi wajahku...  
+Aku tidak punya wajah...  
+Semuanya miliknya.  
+Dia mengambil sebagian dari diriku...  
+melemparkannya pergi...  
+Dia kuat...  
+dan cerdas.  
+Aku tidak punya hak untuk menghentikanmu, pemain.  
+Lihatlah di lemari...  
+
+
+Hey!  
+Kamu menghalangiku!  
+Apakah kamu hanya akan berdiri di sana?  
+Minggir saja!  
+Biarkan aku lewat!  
+Hanya karena kamu besar tidak berarti kamu serba bisa!  
+
+// HEY! STOP!  
+Kenapa kamu mengikutiku!  
+Pergi sana!  
+
+
+
+
+// Funicular - radio voice  
+Tunggu dulu... Pemain?  
+Apa yang kamu lakukan di sini?  
+
+Siapa di sana?  
+
+Beneran Pemain ya.  
+Aku Mitaphone.  
+Aku duduk di sini mengendalikan kereta gantung.  
+Apakah kamu menyadari  
+kamu sedang menuju kehancuran sekarang?  
+
+Mungkin,  
+tapi ini satu-satunya jalur yang aku punya.  
+
+Benar sekali.  
+Tekan tombol dan berdiri di belakang meriam.  
+
+Meriam?  
+
+Uh-huh.  
+Kamu pikir kamu hanya akan berjalan santai?  
+Kamu harus menyelesaikan mini-game Monster-slap ini,  
+jadi bersiaplah untuk menembak.  
+
+// Funicular go  
+Baiklah, saatnya jalan.  
+// Funicular win  
+Luar biasa!  
+Kamu berhasil.  
+// Funicular stop  
+Hey, keluar dari sini.  
+Cepat dan bersih!  
+// Funicular wait 2  
+Kenapa kamu masih di sini?  
+Aku sudah bilang pergi dari sini.  
+// Funicular wait 3  
+Aku tidak mengerti...  
+kenapa kamu hanya berdiri di sana?  
+// Funicular tetris  
+Malah main game? 
+Kocak...  
+// Funicular goodbye  
+Sampai jumpa.  

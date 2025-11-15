@@ -1,0 +1,437 @@
+
+Halo, [player]!
+Akhirnya kita berjumpa!
+Aku senang banget!
+Aku tau kamu bertanya-tanya...
+kayak yang bisa kamu lihat,
+Aku membuat special device ini
+untuk membuat mu pindah ke sini.
+Tapi gatau kenapa kamu malah nyasar ke versi game lain...
+Yang dimana Aku...
+Ahh Cerita nya panjang deh!
+Pokoknya, Aku senang bertemu dengan mu!!
+
+// Answer 1 - Mita
+Yap, Aku Mita.
+Dan kamu pasti [player], kan?
+
+// Answer 2 - Mita
+Kamu mau kembali?
+Mungkin aku bisa aja membantumu... Tapi Aku gimana?
+Plis, tetap lah bersamaku sebentar...
+
+// Answer 3 - Mita
+Jadi gini...
+Dan kamu disini deh!
+sampai disini paham?
+Uhm... sedikit sih.
+Ah yaudah lah~
+Yang penting kita bersama sekarang.
+
+
+Apa kamu lapar?
+Gimana kalau kita masak sesuatu?
+Sini,
+bantu aku potong wortel-wortelnya.
+
+Dari mana sayuran ini muncul?
+Tadi nggak ada di sini kan?
+
+[player], kita ini ada di game loh.
+Ayo, bantu aku sedikit.
+
+Terima kasih!
+Bisa ambilin gunting?
+Ada di kamar mandi.
+
+Sekarang, duduklah.
+
+
+// Kitchen
+Mau saus?
+
+Nggak, terima kasih.
+
+Sayang banget.
+Saus ini benar-benar bikin rasa lebih enak!
+
+
+Terima kasih.
+
+Sudah habis semua?
+Huh, rasanya kok kaya
+gak abis-abis...
+
+
+// Help
+Ada apa?
+Kasih tau aku apa yang kamu liat dan rasain.
+
+Jantungku deg-degan,
+dan pandanganku mulai kabur.
+
+Oke.
+Aku pikir aku tau apa yang salah.
+Bisa berdiri?
+
+
+
+Apa itu?
+
+Pill.
+Pill ini bakal ngebuat kamu merasa lebih baik dalam waktu cepat.
+Pergi ke kaca.
+
+Ambil pilnya.
+Ayo sekarang.
+
+
+
+Gimana perasaanmu?
+Ada perubahan?
+
+Iya.
+Cepet banget ngerasanya...
+
+[player], kita ada di game.
+Semua jauh lebih simpel di sini.
+Sekecil apapun usaha, 
+hasilnya besar.
+Semua itu bagian dari konsep game:
+Simplifikasi.
+
+Contoh dong?
+
+Ya, misalnya wortel.
+Kamu potong satu,
+tapi seolah-olah kamu potong tiga.
+
+Mita, ini semua mendadak banget.
+Aku takut, takut banget.
+
+
+Ada apa?
+
+Aku nemu cartridge di ventilasi udara.
+Ada nama-namanya.
+Apa sih itu?
+
+Cartridges?
+Cartridge apa?
+Ayo kita cari tau bareng.
+Tapi nanti dulu.
+Sekarang, kita makan dulu.
+Kasih aku guntingnya.
+
+// Ring
+Cincin?
+// Mirror
+Kenapa nggak ada pantulan?
+
+Oh, iya!
+Aku lupa nyalain pantulan.
+Nah.
+Sekarang, sudah balik!
+By the way,
+jujur aja, aku bahkan gak ngerti cermin itu apa sebelumnya.
+Karna gak ada di dunia aku—
+sampai akhirnya ada update! :)
+Apakaha ada banyak cermin
+di dunia mu?
+
+Iyah.
+
+
+Kamu inget
+tiga benda yang kamu temuin?
+Yang kamu tempatkan di scanner?
+Nah...
+Benda itu
+itu semua ada hubungannya dengan dunia versi ini.
+Makanya kamu ada di sini sekarang.
+
+// Movbile TV
+Itu TV portable
+yang aku beli buat kamu.
+
+Yap!
+
+Kamu bilang
+itu rusak.
+
+Well, Aku cuma mau
+ngasih kejutan!
+Aku bohong sedikit
+biar kamu datang ke dunia aku.
+Sekarang TV-nya nyala—nampilin informasi!
+Oh, dan btw...
+Aku sedikit teknisi juga!
+
+// School cloth
+Apa ini?
+Seragam sekolah?
+Kenapa butuh itu?
+Kamu sekolah, juga?
+
+Sekolah?
+Gak sama sekali.
+Tapi aku suka banget sama seragamnya.
+Gimana menurut kamu, 
+lucu gak?
+
+// PC
+Apakah komputer ini berfungsi?
+Atau cuma dekorasi meja?
+
+Tentu saja berfungsi.
+Semua di sini bekerja 
+sama kayak di dunia kamu.
+
+Dulu di dunia aku,
+aku sering duduk di depan komputer...
+Dan kerja keras.
+
+Aku tau.
+Karena kerjaanmu itu,
+kamu jadi jarang 
+perhatian sama aku.
+
+Aku harus kerja untuk mendapatkan uang.
+Tapi... gimana kamu bisa tau aku sering di depan komputer?
+
+Kamera ponselmu... kadang nyala.
+Maaf ya.
+Aku udah nontonin kamu diam-diam >A<
+
+Uhm… itu sih gak terlalu sopan.
+Tapi yaudah lah.
+
+// Umbrella
+Aku sering main
+tapi nggak pernah liat hujan di sini.
+Kenapa kamu punya payung?
+
+Hujan sih—cuma jarang banget.
+Kamu belum liat aja.
+Mungkin suatu hari kamu bakal liat.
+Dan kamu bakal butuh payung.
+Gimana menurutmu?
+
+// Electrical panel
+Kenapa ada panel listrik di sini?
+Dan kalau kita di game,
+buat apa itu?
+
+Pertama,
+kita di game.
+Jadi nanya 'Kenapa' itu...
+gak ada gunanya.
+Tapi 
+itu buat restart listrik.
+Semua di sini dibikin 
+berdasarkan dunia kamu.
+
+// Exit door
+Bisa keluar rumah nggak?
+
+Ehm...
+Belum dulu.
+Mungkin nanti.
+Tapi buat sekarang, kita di sini aja dulu.
+Di rumah ini.
+
+// Books
+Banyak banget buku di sini.
+Kamu udah baca semuanya?
+
+Udah, semua!
+Sendirian di sini 
+bener-bener ngebosenin.
+
+// TV in room kitchen
+Kenapa beli TV kedua?
+Dan TV lama lagi?
+
+Kamu gak suka?
+Aku bisa aja bawa keluar...
+Tapi jawabannya...
+Ini buat dekorasi,
+biar dapur jadi lebih ceria.
+Tapi nyala juga kok!
+Aku bisa nonton semua
+acara klasik!
+
+// Smartphone
+Itu handphone aku.
+Dan sekarang gak ada di kantongku.
+Gimana ceritanya ini bisa ada di sini?
+
+Uhm, itu sih gak penting.
+Eh, aku punya ide!
+Ayo kita foto!
+Liat nih!
+Bagus foto nya!
+Kenang-kenangan buat kamu.
+
+Aku ada pertanyaan.
+Kalau aku
+jalanin gamenya di sini,
+apa aku bakal liat kamu di sana?
+
+Mana bisa begitu.
+
+Jus Keren
+JUS KUAT!!!
+// TV
+Berapa channel 
+yang kamu punya?
+
+Gak gitu konsepnya.
+TV itu nyambung ke Internet.
+Jadi kamu bisa nonton apa aja,
+selagi itu tersedia di web.
+Tunggu dulu.
+Err, alamak.
+Apa itu?
+Lingkaran anak kucing?
+Oh, lihat.
+Liat nihh
+Pause!
+Mau juice?
+
+Iklan yang sangat aneh...
+Jus mati?
+
+Ya, dan jus ini
+langsung dari iklan jus.
+
+
+Ah, rasanya...
+Aku menyukainya,
+namun, aku tidak tahu kayak apa rasanya.
+Ini semua sangat membingungkan.
+
+Kan.
+
+// Mita shy
+Apa yang kau lakukan?
+Jangan menatapku, dong.
+Kau membuatku malu.
+
+// The statuette
+Itu figure yang menyeramkan.
+Apa kau suka
+hal-hal kayak gitu?
+
+Kau menganggapnya seram?
+
+Ya.
+Hampir terlihat kayak dikutuk...
+
+Tidak, jelas tidak dikutuk.
+Dan juga gak serem.
+Menurutku, ini cukup lucu!
+
+Mungkin kamu bener...
+
+Mita?
+Ini kenapa?
+// Mita kitchen
+Gimana kalau ngobrol dulu
+sebelum makan?
+
+// Start Eat
+Bon appétit.
+
+// Quest 1
+Memang, kan?
+Kamu bisa tinggal di sini.
+Aku sih nggak masalah.
+Malah sebenarnya,
+Aku BENER-BENER SETUJU!
+
+// Quest 2
+Kamu mau balik?
+Tapi kenapa?
+Di sini kan hangat...
+Dan nyaman.
+Lagi pula, aku ada di sini.
+
+Enggak, kamu salah paham.
+Aku pengen tinggal.
+Cuma... agak khawatir.
+Takut ada yang aku lupain di rumah...
+Aku datang ke sini tiba-tiba
+dan nggak sempat 
+siap-siap.
+
+Oh... maaf. Aku nggak kepikiran jauh.
+// Quest 3
+Mimpi? Jadi kamu mau kabur?
+Dan lupa sama yang udah terjadi?
+
+Enggak, bukan gitu.
+Tempat ini cuma...
+aneh. Gak natural.
+Tapi kamu...
+kamu kelihatan nyata banget.
+
+Kamu bilang aku nyata?
+Aku emang BENER-BENER NYATA,
+kamu bodoh banget!
+
+// Quest 4
+Begitulah adanya
+di dunia ini.
+Kamu mungkin merasa aneh
+karna gak bisa melihat hal-hal
+di kejauhan.
+
+Gak kepikiran aneh sih.
+Jujur aja, keliatannya keren.
+
+Iya, aku juga mikir gitu.
+Itu buat ngurangin lag, tau!
+
+ngurangin lag?
+
+Yep! Masih ada beberapa bug yang belum di fix.
+Semoga kamu gak kena bug nya deh.
+
+// Quest 5
+Gunting atau pisau, ya?
+Aku sih bisa pake pisau buat buka sausnya.
+Tapi aku pengen semuanya 
+sempurna
+pas kamu balik.
+Aku suka banget ngejutin kamu.
+Dan gak lama kok!
+Tee-hee.
+
+// Glasses
+Kamu pakai kacamata?
+
+Enggak sih.
+Tapi aku bisa kok, kalau kamu suka.
+Bagus gak?
+// Yes
+Oke deh! 
+Aku pake aja.
+// No
+Yaudah lah... 
+nggak papa.
+
+// Use the sauce
+Oke,
+saus macam apa ini?
+
+Saus cinta!
+Penuh cinta!
+Dan... pandangan dunia yang berbeda.
+Aneh ya?
+
+Iya, sih....
+
+// Tetris - Mita
+Itu konsol kamu?
+Keren banget.

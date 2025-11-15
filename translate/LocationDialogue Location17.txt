@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Aku butuh bantuan seseorang di sini.
+Aku harap Mita di sini tidak menggigit...
+
+Apa yang sedang aku buang-buang waktu untuk ini...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, bangun!
+Mita!
+
+Mita, bangun-bangun!
+Aku butuh bantuanmu.
+
+Siapa kaaaaaauuuu?
+
+Bantu aku dengan saklar-saklarnya.
+
+Saklar apa?
+Biar aku tidur dulu...
+Atau ambilkan aku kopi.
+
+Mesin kopinya ada di sana.
+Mita?
+Mi-ta!
+
+
+
+// Player gives away the coffee
+Mita,
+ini kopimu.
+
+
+
+// MitaDreamer exercise
+Saklar,
+katamu?
+
+Iya.
+
+Kenapa kamu tahu tentang itu?
+Meskipun, kenapa aku bertanya...
+Mengingat kamu ada di sini,
+pasti kamu sudah tahu banyak hal...
+
+Sebentar,
+aku perlu duduk dulu.
+
+Dan?
+
+Aku nggak tahu harus bilang apa...
+Tapi aku perlu terus maju,
+terus mengikuti petunjuk dari cincin ini.
+
+Kamu punya cincinnya?
+Wajar saja
+kamu bisa menemukan tempat ini.
+
+Betul.
+Jadi, bisa bantu aku?
+Dengan saklar-saklar itu?
+
+Tentu.
+Aku akan bantu.
+Dengan saklar-saklar itu...
+
+
+Mita, ayo...
+Ayo jalan sudah.
+
+Uh?
+Oke.
+Ayo jalan.
+
+
+// MitaDreamer fall
+Bangun.
+Apa kamu sangat mengantuk?
+
+// MitaDreamer again sleep
+Bangun.
+Kita sudah sampai.
+
+
+// Switches
+Oke,
+aku siap.
+
+Aku juga siap.
+
+Yah.
+Aku akan mulai
+hitung mundur.
+Dan kita akan tarik saklarnya bersama-sama.
+Oke?
+
+Jaga matamu tetap terbuka, ya!
+Mulai.
+
+
+3
+2
+1
+
+// Player lose 1
+Kamu melamun?
+Ayo,
+coba lagi...
+
+// Player lose 2
+Coba sekali lagi?
+Ayo,
+aku...
+Aku hampir ketiduran di sini...
+
+// Player lose 3
+Aku hampir ketiduran...
+
+
+
+Luar biasa,
+terima kasih, Mita.
+
+Mm-hmm.
+
+
+Pintu-pintu...
+begitu...
+lambat...
+
+
+Aku pergi tidur...
+
+// Why kitchen?
+Kenapa ke dapur?
+Jika aku ketiduran di lantai yang dingin,
+itu salahmu.
+
+// Why bathroom?
+Aku nggak ngerti...
+saklar apa yang kamu butuh bantuannya?
+
+// Put button
+Nggak ada yang terjadi?
+Terus tombol ini buat apa?
+
+// Cofee
+Mau kopi lagi?
+Atau kamu akan ketiduran lagi.
+
+Apa?
+Nggak...
+Kopi ini rasanya jelek...
+Aku baik-baik saja...
+
+// Button
+Mita? Tombolnya nggak berfungsi... Dengar nggak?
+Halo?

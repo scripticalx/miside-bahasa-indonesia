@@ -1,0 +1,84 @@
+// The first meeting
+Siapa kamu?
+Ada apa?
+Kamu nggak bisa bicara?
+
+
+Tunggu...
+Kamu ingin pergi, kan?
+
+Iya...
+Aku harus kembali
+ke versi sebelumnya.
+
+Versi sebelumnya?
+Kenapa pergi dan pindah
+ke tempat lain?
+Kenapa nggak tinggal di sini
+dan jadi
+teman keduaku?
+
+// Skipping all dialogs
+Oke...
+
+// Standing by the window (Random)
+Kamu nggak akan menemukan jalan keluar lewat pintu.
+kayaknya kamu terburu-buru...
+Berputar-putar nggak akan menyelamatkanmu.
+Begitu ingin untuk kabur?
+Lihat ke luar jendela...
+
+
+// Quest 1 (Aren't you Mita?)
+Player... kamu seorang player, kan?
+Kita bisa bermain bersama.
+Jika aku bisa menemukan kekuatan,
+yang perlu kita lakukan hanyalah bermain.
+
+// Quest 2 (What happened to you?)
+Aku nggak yakin, dan aku sebenarnya nggak tahu...
+Aku nggak merasa ada hal buruk yang terjadi...
+Tapi semua hal baik kayaknya perlahan menghilang...
+Tapi, setidaknya aku punya teman.
+Kenapa mereka meninggalkanku?
+Apa aku nggak cukup?
+Aku takut...
+
+// Quest 3 (Become a second friend?)
+Teman...
+Sekarang aku hanya punya sedikit.
+Hanya satu yang tersisa...
+Aku sedih, player.
+Maukah kamu jadi temanku?
+
+Aku mau,
+tapi aku harus melanjutkan...
+
+Hatiku sakit...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Rumah?
+Player... kamu berubah...
+Lengannya lebih pendek, dan kamu nggak kelihatan marah...
+Player, kamu terlihat lebih lembut, lebih baik.
+
+Aku nggak yakin...
+apa artinya itu.
+
+Nggak apa-apa...
+karena aku nggak akan sakit lagi, kan?
+
+// Quest 5 (How do I leave this place?)
+Apa kamu benar-benar meninggalkanku?
+Apa ini mungkin hanya...
+takdirku?
+
+Aku...
+
+Pintu-pintu nggak akan membantumu.
+
+// Hold player (Random)
+Kenapa pergi?
+Tinggallah di sini...
+Bermain denganku...
+Player...

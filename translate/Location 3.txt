@@ -1,0 +1,16 @@
+// Quest none
+Tidak jadi.
+// Quest "First Mita"
+Apa kamu adalah Mita?
+Gimana kalo aku mau pulang?
+Gimana cara ku masuk ke dalam Game?
+// Quest "Kitchen eat"
+Rumahmu nyaman banget.
+Kapan aku bisa pulang?
+Ini rasanya kayak mimpi...
+Kenapa jendelanya cuma cahaya putih semua?
+Kenapa pakai gunting kalau bisa pakai pisau?
+Bon appétit!
+// TV
+Jus Keren!
+JUS KUAT!!!

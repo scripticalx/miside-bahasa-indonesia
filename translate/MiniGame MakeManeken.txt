@@ -1,0 +1,35 @@
+Pemeriksaan diperlukan!  
+Persyaratan  
+Versi  
+Jumlah Tulang  
+Entitas tidak ditemukan. Pemeriksaan diperlukan!  
+Pemeriksaan Selesai
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Whoo-hoo!
+Kamu berhasil!
+
+// Tutorial
+Jadi, apa yang aku lakukan di sini?  
+Aku perlu ke layar kamu...  
+Sekarang...  
+Jadi!  
+Kamu perlu memastikan prototipe ini yang benar.  
+Pertama, pindai itu.  
+Sekarang, periksa versi dan kerangka tulang.  
+Ambil data prototipe ini dan bandingkan dengan versi standar.  
+Cocok sempurna! Sekarang, mari kita periksa emosi.  
+Spesimen berhasil menunjukkan emosi! Saatnya menguji perilaku.  
+Oke, kita sudah memeriksa semuanya dan semua cocok! Sekarang tarik tuas ke atas.  
+Yay! Sekarang kulitnya terpasang! Berikan kotak pakaian padanya.  
+Itu dia! Lihat lampu-lampu di atas? Salah satunya berubah jadi hijau, yang berarti kita berhasil!  
+Giliranmu! Aku akan kembali saat semua lampu berubah hijau. Semoga sukses!

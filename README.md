@@ -1,23 +1,44 @@
-**[ID]**
-Mod ini cocok buat kamu yang pengen main dengan sentuhan lokal. Semua teks dalam game udah diterjemahin ke Bahasa Indonesia, termasuk beberapa tulisan yang berbentuk texture, sekarang semuanya jadi lebih familiar! Mod ini nggak merubah gameplay, jadi kamu tetap bisa nikmatin game seperti biasa, tapi dengan tambahan rasa lokal.
+# ✨ Indonesian Localization Mod  
+Biar main makin *relate* & berasa lokal banget!
 
-Kalau ada masalah atau saran, feel free buat kasih feedback di kolom komentar. Semoga enjoy! ✨
+---
 
-**[EN]**
-This mod is perfect for those who want to play with a local touch. All in-game texts have been translated into Indonesian, including some text-based textures, making everything feel more familiar! This mod doesn’t change the gameplay, so you can still enjoy the game as usual, but with an added local flavor.
+## 📝 **[ID] Bahasa Indonesia**
+Mod ini cocok banget buat kamu yang pengen main game dengan sentuhan lokal.  
+Semua teks di game udah diterjemahin ke Bahasa Indonesia, termasuk beberapa texture tulisan — jadi lebih familiar & nyaman dibaca.
 
-If you encounter any issues or have suggestions, feel free to leave feedback in the comments. Enjoy! ✨
+Tenang aja, mod ini **nggak ngubah gameplay**, cuma ngasih nuansa lokal biar pengalaman main makin seru ✨
 
-**[RU]**
-Этот мод идеально подойдет тем, кто хочет играть с местным колоритом. Весь текст в игре переведен на индонезийский язык, включая некоторые текстуры с надписями, благодаря чему все стало намного более знакомым! Этот мод не изменяет геймплей, так что вы сможете наслаждаться игрой, как обычно, но с добавлением локального колорита.
+Kalau ada saran atau nemu bug, tinggal drop di kolom komentar ya!
 
-Если у вас возникнут проблемы или есть предложения, оставляйте отзывы в комментариях. Приятной игры! ✨
+---
 
+## 🌍 **[EN] English**
+This mod adds an Indonesian local flavor to your gameplay.  
+All in-game texts have been translated into Indonesian, including several text-based textures — making everything feel more familiar.
 
-found bug?
-dm me on discord: @ anna_xc
-======================================
+Gameplay remains unchanged, so you can enjoy the game normally but with a local twist ✨
 
+If you have any suggestions or spot a bug, feel free to leave a comment!
+
+---
+
+## 🇷🇺 **[RU] Русский**
+Этот мод добавляет индонезийский колорит в вашу игру.  
+Весь текст в игре переведён на индонезийский язык, включая некоторые текстуры с надписями — теперь всё выглядит намного привычнее.
+
+Геймплей остаётся прежним, вы можете играть как обычно, но с новым локальным ощущением ✨
+
+Если заметите ошибку или есть предложения — оставьте комментарий!
+
+---
+
+## 🐞 Found a bug?
+DM me on Discord: **@ anna_xc**
+
+---
+
+## 🙏 A Small Prayer
 Praying for you 🕯️ O Great Mita 💝
 Praying for you 🕯️ O Great Mita 💝
 Praying for you 🕯️ O Great Mita 💝
@@ -25,16 +46,19 @@ Praying for you 🕯️ O Great Mita 💝
 Praying for you 🕯️ O Great Mita 💝
 Praying for you 🕯️ O Great Mita 💝
 Praying for you 🕯️ O Great Mita 💝
-....
-.
+...
 
+---
 
+## ☕ Mau Traktir?
+**"Hey, mod ini gratis loh! Tapi kalau kamu suka, traktir aku boleh kok 🤣"**
 
-"Hey, mod ini gratis, loh! Tapi kalau kamu suka, kenapa nggak traktir aku di [Trakteer]?🤣"
-[Klik di Sini](https://trakteer.id/scriptical/tip?open=true)
-atau scan QR dibawah﻿
+👉 **[Klik di sini buat Trakteer](https://trakteer.id/scriptical/tip?open=true)**  
+atau scan QR di bawah:
 
-<img width="268" height="268" alt="image" src="https://github.com/user-attachments/assets/d2f13643-f2cc-4363-8622-5ebb17340e02" />
+<img width="268" height="268" src="https://github.com/user-attachments/assets/d2f13643-f2cc-4363-8622-5ebb17340e02" />
 
-﻿
-﻿[The End]
+---
+
+## 🔚 *The End*
+Terima kasih udah mampir ✨

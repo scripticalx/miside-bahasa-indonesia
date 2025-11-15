@@ -1,0 +1,19 @@
+// Track names
+Cracker
+Minuman soda
+Balon
+// Quest none
+Tidak jadi.
+// Quest "Meeting Kind Mita"
+Haruskah aku percaya padamu?
+Bagaimana aku bisa sampai di sini?
+Tempat apa ini?
+Bagaimana kamu bisa sampai di sini?
+Apa yang kamu lakukan dengan cincinnya?
+Apakah lorong-lorong itu berbahaya?
+Akankah kamu membantuku kabur?
+Kamu menyebutkan sebuah rencana.
+// Quest MitaCap
+Apakah kamu ingat sesuatu?
+Apa pendapatmu tentang Mita si pembawa cincin?
+Apakah kamu selalu memakai topi itu?

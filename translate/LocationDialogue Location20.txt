@@ -1,0 +1,92 @@
+
+Mila! Tidak! Kamu gila!
+
+Ha-ha! APA INI?
+Apa itu ekspresi baru yang aku lihat?
+Ayo, tunjukkan lebih banyak!
+Melihat wajah yang itu-itu saja jadi membosankan!
+
+// Arena Mita "Halo"
+Apa kabar, pengembara kecilku yang gelisah?
+Masih berlari-lari? Masih belum cukupkah?
+
+Apa yang kamu lakukan pada Mila?
+
+Oh, jadi kamu belum lelah juga!
+Sempurna! Ayo main game lagi!
+
+Kamu...
+
+Ayo mulai dengan sedikit ujian!
+Mari uji koordinasimu!
+Sekarang uji kemampuanmu bertindak!
+Bagaimana kalau ada yang salah denganmu!?
+Bagaimana kalau kamu bahkan nggak pantas memakai SKIN
+yang kamu banggakan itu!?
+
+// Tampilkan pisau
+Lihat ini...
+Yang mana yang menarik perhatianmu?
+Yang kanan?
+Atau
+yang kiri?
+
+// Lempar pisau
+Oh, serius?
+Apa itu penting?
+Aku cuma bercanda!
+Tusukan itu sudah basi, kok.
+Apapun lah!
+Aku punya banyak game yang lebih keren,
+seperti...
+// Tampilkan perekam
+Lihat ini!
+Kita butuh musik!
+Gimana menurutmu dengan melodi ini?
+Itu bikin darahku mendidih!
+Aku mulai
+dengan aturannya!
+// Tampilkan aturan
+Saat lagu dimainkan,
+kamu boleh bergerak.
+Tapi ketika musik berhenti,
+JANGAN BERGERAK!
+Atau kamu mati. Paham?
+Ayo, selesaiin.
+Kamu pasti bisa kok.
+Ayo mulai!
+Masih berdiri saja, ya?
+Lari, sayang, lari!
+
+// Siapkan perekam
+Oh!
+Lihat kamu! Sungguh patuh!
+Spesimen kecil yang sempurna.
+Aku mau kamu untuk diriku!
+Tapi itu terlalu mudah, kan?
+
+Lepaskan aku!
+
+Jangan terlalu nyaman!
+Masih banyak game yang harus dimainkan!
+Ini yang berikutnya:
+Aku akan tutup mataku...
+Dan saat aku buka,
+kamu harus sudah hilang!
+Paham?
+Kalau aku lihat kamu, aku akan hukum kamu!
+Bagus! Ayo mulai!
+
+Ini sia-sia...
+
+// Siapkan bersembunyi
+Kamu berhasil!
+Kamu hebat—ini makin seru!
+Tapi sekarang bakal lebih sulit.
+Jauh lebih sulit.
+Sembunyi, lari, muter—
+
+Gah, sial kamu!
+
+// Pemain jatuh
+Kayaknya aku berhasil kabur...

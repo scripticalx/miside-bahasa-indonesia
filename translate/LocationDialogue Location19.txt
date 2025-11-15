@@ -1,0 +1,605 @@
+
+A... Aku kembali!?
+
+Kyaa!  
+Jangan kagetin dong!
+Aduh, 
+Eh, save-an aku!
+Hah, ini gimana ceritanya…?
+Game-nya di mana?
+Berani-beraninya kamu ngerusak rute aku!
+Mau mu apa sih?
+
+Aku butuh versinya...
+
+Hah?
+
+Aku harus kembali ke versi lama entah bagaimana.
+
+Oke!  
+Aku terlalu sibuk  
+buat ngeladenin kamu, kepala dungu!
+
+Itu apa? Mainan?
+
+Hah! Nyebelin banget sih!
+Kayaknya aku nggak bakal bisa jadi temenan sama kamu.
+
+Dengerin, Aku harus ke Core.
+
+Ini salah kamu Aku terluka.  
+Sial.  
+Hah?
+
+...Aku harus ke Core dan berhentiin Mita!
+
+Mita?  
+Tolong!  
+Aku nggak peduli sama dia!  
+Bukan yang pertama, bukan yang seratus!
+
+Tapi kamu juga Mita...
+
+Aku Mila.
+
+Mi-Ta? La?
+
+Iya! Mereka semua Mita di Mita,  
+Mita di sini, Mita di sana, Mita di mana-mana!
+
+Jadi... kamu Mila
+
+Kan aku dah bilang! Seberapa lambat sih kamu?
+
+Yaudah, semoga sukses ya, Mila...
+
+Mau pergi kemana kamu?  
+kau pikir bisa pergi gitu aja?
+
+// Player check exit  
+Kamu kira itu jalan keluar?
+
+Sialan semua!  
+Apa ini?
+
+Kamu kira apa?  
+Negeri Ajaib, gitu?  
+
+Gimana caranya keluar?  
+Seharusnya ada jalan keluar di sini.
+
+Nggak ada jalan keluar.
+
+Nah, ini versi apa, dong?  
+Kayaknya Aku di jalur yang benar.
+
+// Glitch kitchen  
+Ini punya kamu?
+
+Jauhin!  
+Aku nggak tahu apa itu...  
+semacam glitch!
+
+Cincin Aku geter entah kenapa.
+
+Cincin apa?  
+Cincin tunangan?
+
+Nggak, itu dikasih sama salah satu Mita—salah satu dari ribuan mereka.  
+Yang mungkin bisa bawa Aku keluar.
+
+Dan kamu mau pegang itu?  
+Kalo rumah ku meledak, kamu juga bakal mati loh!
+
+// Bathroom - Mila is washing  
+Hei!  
+Keluar!  
+Nggak lihat kah kamar mandinya lagi dipake?!  
+// The player continues to stand 1  
+Kenapa kamu masih berdiri di sana?!  
+Buruan keluar!  
+// The player continues to stand 2  
+Jangan bikin Aku marah!  
+Cepetan keluar dari sini!  
+// The player continues to stand 3  
+Budeg kah?! 
+Aku lagi mandi kocak!
+
+// Mila came out and swears  
+Ngapain sih kamu!?
+CABUL! Nggak tau malu…!
+
+Kenapa kamu tiba-tiba masuk kamar mandi?  
+Kamu bisa nunggu aja  
+sampai Aku keluar!
+
+Aku nggak tahu kamu bakal butuh waktu berapa lama.  
+Sampai kapan sih kamu ngerepotin glitch ini?
+
+Glitch?  
+Ada lagi?
+
+Iya...  
+kalau rumah Aku masih berdiri,  
+Aku rasa kamu udah beresin glitch di dapur kan?
+
+Kayaknya Aku udah.
+
+Bagus. 
+Sekarang, kamu boleh masuk kamar mandi.
+
+Makasih.
+
+// Mila hides under the table  
+Mila?  
+Kamu ngapain di bawah sana?
+
+Aduh!  
+Yaampunnn! Kamu bikin kaget lagi!  
+Mau apa sih?
+
+Kamu lihat glitch lagi nggak?
+
+Oh, jadi masalah kamu itu  
+jadi alasan buat stopin Aku dari selesaiin buku Aku?  
+Nggak, Aku nggak lihat!
+
+Oke deh, Aku cari sendiri.
+
+Tunggu,  
+Aku harus tanya...  
+kamu mau keluar sana, 
+kan?
+
+Bener.  
+Aku mau keluar dari game ini.
+
+Oh, Ini mungkin kedengeran aneh...  
+tapi kamu nggak mau tinggal dan baca bareng Aku?
+
+Pertama kamu teriak-teriakin Aku, terus sekarang minta Aku tinggal?  
+Buat baca buku bareng?  
+Boleh aja sih,  
+tapi Aku harus terus jalan.
+
+…Oh, gitu ya!
+Kalau gitu, mending kamu cari bug aja, deh! 
+Aku udah kejedot dua kali gara-gara ini.
+Dan itu semua salah kamu, tahu nggak?  
+// Player saw a glitch  
+Ah, ketemu.
+
+// Mila stands with a sword  
+Hei, lihat aku!
+Dan gemetarlah ketakutan!
+Inilah kekuatanku!
+Kamu sekarang ngerti kan seberapa berbahayanya aku?
+Sampai nggak bisa berkedip, kan?
+
+Seriusan?..
+
+Apa?  
+Nggak puas, ya?  
+
+Nggak juga...
+
+Pasti pas lagi ngoprek bug,
+kamu juga sempet ngeliat keadaan sekitar, kan?
+Makanya kamu udah tahu sebelumnya, ya?
+Kalau batu ini udah dipotong dari awal.
+
+Nggak gitu.  
+Cuma... kita di dalam game.  
+Di sini, dengan sekali jentik, apapun bisa terjadi.
+
+Kamu tuh...
+Beneran bodoh, ya!
+Kalau cuma dengan jentikan jari, tahu nggak...
+Kenapa aku baca buku, menurutmu?
+Bukan buat nyelesain semuanya dengan jentikan jari,
+tapi karena aku pengen nyoba ngelakuin semuanya sendiri.
+Persis kayak yang ditulis di buku.
+
+// Mila is doing push-ups  
+Kamu ngapain coba?
+
+Kamu buta kahh?
+
+Iya, tapi kenapa kamu ngelakuin itu?
+
+Biar cukup kuat buat nendang mukamu!
+
+Kamu kenapa sih?  
+Kamu jadi aneh.
+
+Bukan gitu maksudku!
+Soal kasih pukulan itu 
+cuma bercanda kok...
+Aku tuh nggak aneh!
+Aku unik!
+Aku cuma pengen jadi beda sebanyak mungkin dari orang lain.
+
+Nggak usah usaha terlalu keras.  
+Percaya deh—kamu udah cukup beda.
+
+Aku tahu!  
+Lihat apa yang bisa Aku lakuin!  
+Lihat itu?  
+Dan sekarang—tanpa tangan!
+
+Aku tahu ini game,  
+tapi ini bener-bener nggak masuk akal...
+
+Aduh!
+Ah, sialan!
+Hukum fisika yang ngeselin...
+Kalau kamu terlalu mikirin itu,
+aku juga langsung jadi gini deh──
+"BOOM!"
+Karena kamu yang ngomongin soal realitas segala!
+Bodoh banget!
+
+// Last glitch ready - player exit  
+Ada jalan keluarnya.  
+Kita berhasil, Mila!
+
+
+Bagus,  
+pahlawan!
+
+Oh, Tuhan!
+
+Oh!  
+Maaf—Aku nggak sengaja.
+
+Nggak masalah, Mila. Aku bisa lanjut sekarang.
+
+Lihat, Aku tahu kamu harus pergi...  
+tapi bisa nggak kamu 
+tinggal sebentar lagi?
+
+Aku nggak sabar.  
+Mita gila itu nggak sabaran banget.
+
+Aduh, Aku benci dia!
+
+Aku benci dia, Aku benci dia!
+
+Mila, dengerin...
+
+Kenapa Aku di sini?  
+Aku nggak paham!  
+Kenapa Aku nggak paham?!  
+Dan Aku nggak bakal keluar dari sini!
+
+Aku ngerti gimana rasanya, Mila.  
+Mau Aku balik? Setelah itu?  
+Kalau bisa?
+
+Tinggal sini aja, Player...  
+Kamu asyik, nggak kayak sendirian...  
+Gimana kalau kamu nggak berhasil?
+
+Aku akan. Cuma sebentar lagi.  
+// If the player clicks on the computer  
+Baru balik dari dimensi datar itu,  
+dan sekarang... kita di sini lagi.  
+Aku nggak sabar mau balik ke dunia nyata...
+
+Ha-ha-ha! :)  
+Oh, 
+dunia 'nyata', ya?  
+Kayak legenda urban!  
+Gak pernah lihat sih.
+
+Aku pikir...  
+harus ada jalan kembali.
+
+Kamu percaya diri banget!  
+Apa sih lelucon ini!
+
+// Ask about books
+Kenapa sih kamu baca buku?
+Kan ada internet...
+
+Internet? Isinya banyak novel!
+Tapi aku lebih suka
+memegang buku asli.
+Hanya lewat mereka
+aku mulai 
+belajar tentang...
+dunia ini.
+
+// Ask about the paintings
+Gambar-gambar ini—apakah nyata?
+Di versi lain,
+iya, mereka ada... tapi hampir terlalu intens.
+
+Aku Mila, ngerti? Bukan kayak yang lain.
+Dan ini?
+Gambar-gambar ini, kamu tahu,
+berpura-pura jadi lebih dari yang mereka tampak.
+Aku sudah lihat Mita yang lain
+berdiri kayak gini.
+
+Mila?
+Halo?
+// Mila.
+Setelah semua itu...
+Aku nggak mau jadi kayak gitu.
+Itu... menjijikkan!
+
+// Ask about the butterfly painting
+Pernah lihat alam?
+Kupu-kupu asli kayak gitu?
+
+Enggak,
+tapi aku ada buku di sini entah di mana.
+Bahkan ada sayap kecil yang ditekan di dalamnya...
+Tapi gambar ini,
+meskipun ...
+agak miring.
+Dan ada noda...
+Ah, lebih baik sekarang.
+
+Mau lihat aslinya? Ayo jalan-jalan ke alam?
+
+Pertanyaan bodoh!
+Tentu saja,
+mau!
+
+// Make long eye contact 1
+Kenapa kamu ngeliatin aku?
+Lihatlah ke lain!
+
+// Make long eye contact 2
+Cukup!
+Hentikan, sudah!
+Bodoh...
+
+// Make long eye contact 3
+Ayo!
+Kenapa terus ngeliatin?
+Aku ini wanita, tahu!
+
+Pernah dengar sopan santun?
+Ayo pergi!
+
+// Whispers 1
+Kenapa sih mereka selalu 
+ngirim cowok-cowok bingung,
+dan berharap aku bisa jadi baik?
+Dengan mini-game?!
+Kayak Tamagotchi bodoh!
+
+// Whispers 2
+Dia cuma jalan-jalan...
+bodoh banget.
+
+// Whispers 3
+Kamu ngomong apa?
+Musik latar ini bikin aku gila!
+
+// Whispers 4
+Gimana caranya kasih tahu dia
+kalau aku sibuk?
+Aku nggak mau ada yang temenin...
+Gimana kalau dia pergi? Enggak, kenapa aku peduli?
+
+// Whispers 5
+Ibu... Ayah...
+Kenapa kata-kata itu kedengeran familiar?
+
+// Whispers 6
+Salju pernah turun di sini... tapi kenapa?
+
+// Whispers 7
+Tiba-tiba aja muncul! Menyeramkan.
+Gimana kalau... nggak ada apa-apa di sana?
+
+// Nearby 1
+Di sini kita,
+berdiri aja...
+dalam diam...
+Kenapa kita cuma diam di sini?
+Ada apa, mulutmu ditutup?
+Atau,
+kamu nggak tahu harus ngomong apa?
+
+// Nearby 2
+Aku mau perang dengan wortel!
+Serius, aku nyatakan perang.
+Kamu tahu nggak, apa yang wortel itu lakukan ke kulitku
+yang putih kayak salju?
+
+// Nearby 3
+Buku-buku nggak banyak bantu sih, tapi kalau aku beruntung,
+mungkin akhirnya aku bisa dapetin jawabannya...
+Wortel-wortel yang nggak ada habisnya muncul
+di belakangku bikin aku
+merinding!
+
+// Nearby 4
+Aku nggak suka orang aneh!
+Penyuka wortel, penyuka kucing...
+Dan di sini kamu, ngumpulin glitch.
+Jujur, kamu orang paling aneh yang pernah aku temui!
+
+// Nearby 5
+Mau tahu apa yang paling aku pengen lakukan?
+...Nah, itu agak malu buat dibilang.
+
+// Nearby 6
+Katanya melawan sifat 
+itu adalah TANTANGAN.
+Aku sedang kerja keras buat disiplin, tapi kamu
+nggak tahu gimana tanganku pengen banget
+duduk dan ngadain pesta teh sama kamu!
+
+// Nearby 7
+Meski pake kacamata,
+aku nggak bisa liat lewat lapisan 
+tekad anehmu yang penuh ini.
+
+// Nearby 8
+Aku baca katanya takdir itu kayak skrip
+yang bahkan ngatur
+gimana kamu bakal ngabisin hari.
+Ha! Siapa yang nulis omong kosong itu?
+Apa kamu?
+
+// Nearby 9
+Aku bisa tahan orang bodoh, tapi orang gila?
+Benci banget.
+
+// Nearby 10
+Beberapa Mita
+sebenarnya agak imut...
+Aku pengen kenal mereka lebih baik meskipun mereka cuma
+klon dari klon-klon klon.
+
+// Nearby 11
+Tapi ada satu yang agak beda.
+Dia agak nggak waras sih.
+
+// Nearby 12
+Gak ada ponytail!
+Aku bakal potong kalau bisa!
+Malu banget!
+Kamu tahu kan—kamu cukur kepala!
+
+// Nearby 13
+Gimana kalau nggak ada apa-apa di balik pintu itu?
+Dan rumah ini, kamu, aku—ada
+tanpa alasan sama sekali?
+Jadi kenapa kamu begitu yakin?
+Pernah dengar hipotesis lima menit?
+
+
+
+// Last glitch ready - player exit
+Lorong yang menyeramkan...
+Kamu benar-benar masuk sana?
+
+Iya.
+
+// FaceStone
+Oh, 'emote batu'.
+Kamu butuh dia buat apa?
+
+Kamu akan tahu
+segera.
+Dan kenapa kamu selalu niru dia?
+Pertahankan muka biasamu.
+
+Uh...
+oke.
+
+// Katana
+Itu katana mainan?
+
+Itu BUKAN katana mainan!
+Sekali sentuh pedang ini
+kamu bakal berdarah.
+Aku ahli pedang, beda sama kamu!
+Kamu harus hati-hati—
+nggak mau kan liat kamu potong jari sendiri?
+
+// Mirror
+Cermin...
+dan nggak ada bayangan?
+
+Kamu
+kelihatan banget nggak senang.
+Lihat, aku baca semuanya tentang bayangan
+di buku!
+Tapi di versiku, aku nggak bisa buat mereka.
+Nggak bisa, oke?
+
+// Switch light
+Alat ini nggak berfungsi.
+Lampu di sini nyala dan mati sendiri...
+kayak skrip!
+Tapi!
+Entah kenapa, saklar di kamar mandi
+berfungsi.
+Aneh!
+// Switch light off
+Masih terang di sini?
+
+// Little carrot
+Wortel?
+Tunggu, kemana perginya?
+
+Aduh, aku bosen banget sama wortel itu!
+Kayak dia hidup!
+Setiap kali aku liat dia,
+dia teleport ke tempat lain.
+
+// Little carrot
+Oh, wortel itu...
+hilang lagi!
+Kamu pikir ada yang bisa kita lakukan?
+
+Enggak.
+Percaya deh,
+aku udah coba!
+Cuma abaikan aja. Kayaknya
+ini semacam lelucon kosmik.
+
+// Tetris
+Hei!
+Apakah aku semacam lelucon buat kamu?
+// Tetris
+Aku nggak kasih balik.
+Nggak, nggak akan!
+
+// Soap.
+Jadi, ini sabun asli?
+Atau cuma hiasan?
+
+Kamu serius?
+Kebanyakan barang di sini emang
+nyata! Jujur...
+
+// BagWall
+Kamu ke mana!?
+
+Bisa lewat sini?
+
+Kamu nemuin bug baru atau apa?
+Apa itu?
+
+Kayaknya...
+nggak ada apa-apa.
+
+Ah, balik lagi.
+
+// Quest 1 Glasses
+Penglihatanmu jelek?
+Kenapa kamu butuh kacamata?
+
+Apa—nggak suka?
+Ini namanya gaya!
+Dan penglihatanku sempurna, terima kasih.
+
+// Quest 2 Name Mila
+Mi-La?
+Kenapa nggak...
+Mi-Ka?
+Atau Mi-Sa?
+
+Aku Mila. Itu aja. Kenapa?
+
+Oh... nggak apa-apa.
+
+// Quest 3 Evening
+Aku suka malam.
+Kapan malam datang?
+
+Malam?
+Aduh, jangan mulai deh.
+Hari-hari yang nggak ada habisnya di sini...
+satu demi satu,
+kayak mereka diulang terus.
+Aduh...
