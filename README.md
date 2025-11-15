@@ -1,6 +1,10 @@
 # ✨ Indonesian Localization Mod  
 Biar main makin *relate* & berasa lokal banget!
 
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/scripticalx/miside-bahasa-indonesia/latest/total?style=for-the-badge&label=Download&link=https%3A%2F%2Fgithub.com%2Fscripticalx%2Fmiside-bahasa-indonesia%2Freleases)
+![Static Badge](https://img.shields.io/badge/donate_me-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/nexus-mod-blue?style=for-the-badge&logo=nexusmods)
+
 ---
 
 ## 📝 **[ID] Bahasa Indonesia**
