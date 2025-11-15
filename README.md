@@ -1,13 +1,22 @@
 # ✨ Indonesian Localization Mod  
 Biar main makin *relate* & berasa lokal banget!
 
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/scripticalx/miside-bahasa-indonesia/latest/total?style=for-the-badge&label=Download&link=https%3A%2F%2Fgithub.com%2Fscripticalx%2Fmiside-bahasa-indonesia%2Freleases)
-![Static Badge](https://img.shields.io/badge/donate_me-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/nexus-mod-blue?style=for-the-badge&logo=nexusmods)
+[![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/scripticalx/miside-bahasa-indonesia/latest/total?style=for-the-badge&label=Download)](https://github.com/scripticalx/miside-bahasa-indonesia/releases)
+[![Donate](https://img.shields.io/badge/Donate-Me-green?style=for-the-badge)](https://trakteer.id/scriptical/tip?open=true)
+[![NexusMods](https://img.shields.io/badge/NexusMods-Download-orange?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/miside/mods/48)
 
 ---
 
-## 📝 **[ID] Bahasa Indonesia**
+## Cara Pasang Mod
+
+1. Download file terjemahan dari **Releases** atau **Nexus Mods**.
+2. Ekstrak file ZIP-nya.
+3. Pindahkan folder hasil ekstraknya ke lokasi berikut: MiSide\Data\Languages
+5. Selesai! Mod terjemahan udah kepasang 🎉
+
+---
+
+## **[ID] Bahasa Indonesia**
 Mod ini cocok banget buat kamu yang pengen main game dengan sentuhan lokal.  
 Semua teks di game udah diterjemahin ke Bahasa Indonesia, termasuk beberapa texture tulisan — jadi lebih familiar & nyaman dibaca.
 
@@ -17,7 +26,7 @@ Kalau ada saran atau nemu bug, tinggal drop di kolom komentar ya!
 
 ---
 
-## 🌍 **[EN] English**
+## **[EN] English**
 This mod adds an Indonesian local flavor to your gameplay.  
 All in-game texts have been translated into Indonesian, including several text-based textures — making everything feel more familiar.
 
@@ -27,7 +36,7 @@ If you have any suggestions or spot a bug, feel free to leave a comment!
 
 ---
 
-## 🇷🇺 **[RU] Русский**
+## **[RU] Русский**
 Этот мод добавляет индонезийский колорит в вашу игру.  
 Весь текст в игре переведён на индонезийский язык, включая некоторые текстуры с надписями — теперь всё выглядит намного привычнее.
 
