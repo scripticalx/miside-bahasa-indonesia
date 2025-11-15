@@ -47,7 +47,7 @@ If you have any suggestions or spot a bug, feel free to leave a comment!
 ---
 
 ## 🐞 Found a bug?
-DM me on Discord: **@ anna_xc**
+DM me on Discord: **https://discord.com/users/841137575406469120**
 
 ---
 
